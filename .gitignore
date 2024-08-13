@@ -1,0 +1,6 @@
+/bitrix/cache/
+/bitrix/managed_cache/
+/bitrix/html_pages/
+/bitrix/stack_cache/
+/bitrix/backup/
+/upload/backup/

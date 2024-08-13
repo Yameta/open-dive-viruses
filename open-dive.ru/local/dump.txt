@@ -1,0 +1,18 @@
+Array
+(
+    [document_id] => Array
+        (
+            [0] => crm
+            [1] => CCrmDocumentDeal
+            [2] => DEAL_1071
+        )
+
+    [auth] => Array
+        (
+            [domain] => open-dive.ru
+            [client_endpoint] => https://open-dive.ru/rest/
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [member_id] => bb49d05ba84108515c0b4bae92973ca8
+        )
+
+)

@@ -1,0 +1,8 @@
+<?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
+$APPLICATION->SetPageProperty("title", "Купить подводное снаряжение для дайвинга и охоты по низкой цене - Опендайв");
+$APPLICATION->SetPageProperty("keywords", "оборудование для дайвинга, снаряжение для дайвинга, снаряжение для подводной охоты, интернет-магазин снаряжения для плавания");
+$APPLICATION->SetPageProperty("description", "Заказать подводное снаряжение для дайвинга и охоты по выгодной стоимости в интернет-магазине Опендайв - акции и скидки, быстрая доставка, надёжные бренды");
+$APPLICATION->SetPageProperty("viewed_show", "Y");
+$APPLICATION->SetTitle("Главная");
+?>
+<?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>

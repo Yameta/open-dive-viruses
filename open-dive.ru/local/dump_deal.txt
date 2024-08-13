@@ -1,0 +1,117 @@
+Array
+(
+    [ID] => 1071
+    [DATE_CREATE] => Bitrix\Main\Type\DateTime Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-02-16 15:21:00.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Moscow
+                )
+
+            [userTimeEnabled:protected] => 1
+        )
+
+    [DATE_MODIFY] => Bitrix\Main\Type\DateTime Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-02-18 18:54:04.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Moscow
+                )
+
+            [userTimeEnabled:protected] => 1
+        )
+
+    [CREATED_BY_ID] => 682
+    [MODIFY_BY_ID] => 444
+    [ASSIGNED_BY_ID] => 444
+    [OPENED] => Y
+    [LEAD_ID] => 
+    [COMPANY_ID] => 0
+    [CONTACT_ID] => 40493
+    [QUOTE_ID] => 
+    [TITLE] => Заказ интернет-магазина №625
+    [PRODUCT_ID] => 
+    [CATEGORY_ID] => 0
+    [STAGE_ID] => UC_Z2AWXH
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => N
+    [IS_RECURRING] => N
+    [IS_RETURN_CUSTOMER] => N
+    [IS_REPEATED_APPROACH] => N
+    [CLOSED] => N
+    [TYPE_ID] => 
+    [OPPORTUNITY] => 110.00
+    [IS_MANUAL_OPPORTUNITY] => N
+    [TAX_VALUE] => 0.00
+    [CURRENCY_ID] => RUB
+    [OPPORTUNITY_ACCOUNT] => 110.00
+    [TAX_VALUE_ACCOUNT] => 0.00
+    [ACCOUNT_CURRENCY_ID] => RUB
+    [PROBABILITY] => 
+    [COMMENTS] => 
+    [BEGINDATE] => Bitrix\Main\Type\Date Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-02-16 00:00:00.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Moscow
+                )
+
+        )
+
+    [CLOSEDATE] => Bitrix\Main\Type\Date Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-02-23 00:00:00.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Moscow
+                )
+
+        )
+
+    [EVENT_DATE] => 
+    [EVENT_ID] => 
+    [EVENT_DESCRIPTION] => 
+    [EXCH_RATE] => 1.0000
+    [LOCATION_ID] => 
+    [WEBFORM_ID] => 
+    [SOURCE_ID] => STORE
+    [SOURCE_DESCRIPTION] => 
+    [ORIGINATOR_ID] => 
+    [ORIGIN_ID] => 
+    [ADDITIONAL_INFO] => 
+    [SEARCH_CONTENT] => 1071 Заказ интернет-магазина №625 110.00 Российский рубль Программист Битрикс ТЕСТ7 79004745654 89004745654 9004745654 004745654 04745654 4745654 745654 45654 5654 654 Новый заказ 16.02.2024 23.02.2024 Интернет-магазин пять
+    [ORDER_STAGE] => 
+    [MOVED_BY_ID] => 444
+    [MOVED_TIME] => Bitrix\Main\Type\DateTime Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-02-18 18:54:04.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Moscow
+                )
+
+            [userTimeEnabled:protected] => 1
+        )
+
+    [LAST_ACTIVITY_BY] => 5
+    [LAST_ACTIVITY_TIME] => Bitrix\Main\Type\DateTime Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-02-18 18:54:04.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Moscow
+                )
+
+            [userTimeEnabled:protected] => 1
+        )
+
+)

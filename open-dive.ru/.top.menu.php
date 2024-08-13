@@ -1,0 +1,74 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"Производители", 
+		"//brand/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Оплата", 
+		"//howpay/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Доставка", 
+		"//delivery/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Возврат", 
+		"//return/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Сервисный центр", 
+		"//service/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Новости", 
+		"//news/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Статьи", 
+		"//how/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"О нас", 
+		"//o_nas/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Контакты", 
+		"//contacts/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Товары под заказ", 
+		"/tovary-pod-zakaz/", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>

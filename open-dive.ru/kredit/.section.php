@@ -1,0 +1,6 @@
+<?
+$sSectionName = "Рассрочка";
+$arDirProperties = Array(
+
+);
+?>
