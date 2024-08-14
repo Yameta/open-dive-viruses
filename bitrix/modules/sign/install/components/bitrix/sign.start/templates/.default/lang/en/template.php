@@ -1,0 +1,5 @@
+<?php
+$MESS["CRM_COMMON_ACTION_CREATE_36"] = "Sign";
+$MESS["SIGN_CMP_START_TPL_DOCS_TITLE"] = "Documents for signing";
+$MESS["SIGN_CMP_START_TPL_MENU_INDEX"] = "Documents";
+$MESS["SIGN_CMP_START_TPL_MENU_MYSAFE"] = "My vault";

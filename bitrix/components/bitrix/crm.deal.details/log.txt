@@ -1,0 +1,45 @@
+Array
+(
+    [TITLE] => Удалить
+    [TYPE_ID] => SALE
+    [STAGE_ID] => NEW
+    [IS_RECURRING] => N
+    [CURRENCY_ID] => RUB
+    [OPPORTUNITY] => 
+    [IS_MANUAL_OPPORTUNITY] => N
+    [OPENED] => Y
+    [COMMENTS] => 
+    [ASSIGNED_BY_ID] => 444
+    [SOURCE_ID] => 
+    [SOURCE_DESCRIPTION] => 
+    [UF_CRM_656460F0CB09E] => 
+    [UF_CRM_1701170230948] => пять
+    [UF_CRM_1704693719852] => 
+    [UF_CRM_1706536775674] => 
+    [CATEGORY_ID] => 0
+    [COMPANY_ID] => 0
+    [TAX_VALUE] => 0
+    [PRODUCT_ROWS] => Array
+        (
+        )
+
+    [EXCH_RATE] => 1
+    [~DATE_CREATE] => now()
+    [~DATE_MODIFY] => now()
+    [CREATED_BY_ID] => 444
+    [MODIFY_BY_ID] => 444
+    [MOVED_BY_ID] => 444
+    [MOVED_TIME] => 05.02.2024 16:21:40
+    [LAST_ACTIVITY_TIME] => 05.02.2024 16:21:40
+    [LAST_ACTIVITY_BY] => 444
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => Y
+    [ACCOUNT_CURRENCY_ID] => RUB
+    [OPPORTUNITY_ACCOUNT] => 
+    [TAX_VALUE_ACCOUNT] => 0
+    [~BEGINDATE] => '2024-02-05'
+    [__BEGINDATE] => 05.02.2024
+    [CLOSED] => N
+    [~CLOSEDATE] => '2024-02-12'
+    [__CLOSEDATE] => 12.02.2024
+)

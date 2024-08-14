@@ -1,0 +1,14 @@
+{
+    "montserrat": {
+        "300_italic": "\/home\/bitrix\/www\/bitrix\/modules\/aspro.max\/vendors\/dompdf\/vendor\/dompdf\/dompdf\/lib\/fonts\/montserrat_300_italic_f470586e928fb1e2bea7ffacde83d542",
+        "italic": "\/home\/bitrix\/www\/bitrix\/modules\/aspro.max\/vendors\/dompdf\/vendor\/dompdf\/dompdf\/lib\/fonts\/montserrat_italic_1d1c7e486829cf767bd74448043320cc",
+        "500_italic": "\/home\/bitrix\/www\/bitrix\/modules\/aspro.max\/vendors\/dompdf\/vendor\/dompdf\/dompdf\/lib\/fonts\/montserrat_500_italic_ec3f60b6c54e8ee79661303766ef10c4",
+        "600_italic": "\/home\/bitrix\/www\/bitrix\/modules\/aspro.max\/vendors\/dompdf\/vendor\/dompdf\/dompdf\/lib\/fonts\/montserrat_600_italic_766e7b3599c3644a98ca78f9ec673c56",
+        "bold_italic": "\/home\/bitrix\/www\/bitrix\/modules\/aspro.max\/vendors\/dompdf\/vendor\/dompdf\/dompdf\/lib\/fonts\/montserrat_bold_italic_09d0c6b0a1a677f9f012e260fdb4573e",
+        "300": "\/home\/bitrix\/www\/bitrix\/modules\/aspro.max\/vendors\/dompdf\/vendor\/dompdf\/dompdf\/lib\/fonts\/montserrat_300_11be3eb1825a588a468235740322e12d",
+        "normal": "\/home\/bitrix\/www\/bitrix\/modules\/aspro.max\/vendors\/dompdf\/vendor\/dompdf\/dompdf\/lib\/fonts\/montserrat_normal_00833106404dc8458cdfb436c759f23d",
+        "500": "\/home\/bitrix\/www\/bitrix\/modules\/aspro.max\/vendors\/dompdf\/vendor\/dompdf\/dompdf\/lib\/fonts\/montserrat_500_1236ec90acb329158f494b3fcb44327e",
+        "600": "\/home\/bitrix\/www\/bitrix\/modules\/aspro.max\/vendors\/dompdf\/vendor\/dompdf\/dompdf\/lib\/fonts\/montserrat_600_485729d96603ccf9729bf58de2db0851",
+        "bold": "montserrat_bold_5da7810bf4e960efe50d20e94a894069"
+    }
+}

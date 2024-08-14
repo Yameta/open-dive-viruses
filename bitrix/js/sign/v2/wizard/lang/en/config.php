@@ -1,0 +1,9 @@
+<?php
+$MESS["SIGN_WIZARD_FOOTER_BUTTON_BACK"] = "Back";
+$MESS["SIGN_WIZARD_FOOTER_BUTTON_NEXT"] = "Continue";
+$MESS["SIGN_WIZARD_FOOTER_SEND_FOR_SIGN"] = "Submit for signing";
+$MESS["SIGN_WIZARD_HEADER_TITLE"] = "New document";
+$MESS["SIGN_WIZARD_HEADER_TITLE_SUB"] = "Three simple steps to submit document for signing";
+$MESS["SIGN_WIZARD_LOAD_DOCUMENT"] = "Document";
+$MESS["SIGN_WIZARD_PREPARING_DOCUMENT"] = "Prepare";
+$MESS["SIGN_WIZARD_SEND_DOCUMENT"] = "Send";

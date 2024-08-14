@@ -1,0 +1,13 @@
+<?php
+$MESS["ASPRO_MAX_ADV_ELEMENT_NAME"] = "Banners";
+$MESS["ASPRO_MAX_ADV_SECTION_NAME"] = "Sections";
+$MESS["ASPRO_MAX_ADV_TYPE_NAME"] = "Advertising (aspro.max)";
+$MESS["ASPRO_MAX_CATALOG_ELEMENT_NAME"] = "Products";
+$MESS["ASPRO_MAX_CATALOG_SECTION_NAME"] = "Sections";
+$MESS["ASPRO_MAX_CATALOG_TYPE_NAME"] = "Catalog (aspro.max)";
+$MESS["ASPRO_MAX_CONTENT_ELEMENT_NAME"] = "Elements";
+$MESS["ASPRO_MAX_CONTENT_SECTION_NAME"] = "Sections";
+$MESS["ASPRO_MAX_CONTENT_TYPE_NAME"] = "Content (aspro.max)";
+$MESS["ASPRO_MAX_REGIONALITY_ELEMENT_NAME"] = "Cities";
+$MESS["ASPRO_MAX_REGIONALITY_SECTION_NAME"] = "Regions, districts";
+$MESS["ASPRO_MAX_REGIONALITY_TYPE_NAME"] = "Regionality (aspro.max)";

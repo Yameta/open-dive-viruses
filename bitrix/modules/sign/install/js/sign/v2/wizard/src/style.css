@@ -1,0 +1,121 @@
+.sign-wizard {
+	display: flex;
+	position: relative;
+	padding: var(--inset-wrapper-space);
+	min-height: 100%;
+	box-sizing: border-box;
+	background: url(images/background-one.svg) top right no-repeat,
+				url(images/background-two.svg) left bottom no-repeat;
+	background-attachment: fixed;
+}
+
+.sign-wizard__sidebar {
+	flex: 1;
+	margin-right: 24px;
+	overflow-x: hidden;
+}
+
+.sign-wizard__head {
+	display: flex;
+	padding: 18px 22px;
+	margin-bottom: 17px;
+	box-sizing: border-box;
+	background: var(--ui-color-palette-white-base);
+	border-radius: var(--border-radius-md);
+}
+
+.sign-wizard__head:before {
+	background: url("data:image/svg+xml;charset=utf-8,%3Csvg width='56' height='56' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Ccircle cx='28' cy='28' r='28' fill='%2347E4C2'/%3E%3Cpath fill-rule='evenodd' clip-rule='evenodd' d='M16 16a2 2 0 012-2h14.101a2 2 0 011.364.537l5.899 5.498A2 2 0 0140 21.498V41a2 2 0 01-2 2H18a2 2 0 01-2-2V16z' fill='%23fff'/%3E%3Cmask id='a' style='mask-type:alpha' maskUnits='userSpaceOnUse' x='16' y='14' width='24' height='29'%3E%3Cpath fill-rule='evenodd' clip-rule='evenodd' d='M16 16a2 2 0 012-2h14.101a2 2 0 011.364.537l5.899 5.498A2 2 0 0140 21.498V41a2 2 0 01-2 2H18a2 2 0 01-2-2V16z' fill='%23fff'/%3E%3C/mask%3E%3Cg mask='url(%23a)' fill-rule='evenodd' clip-rule='evenodd'%3E%3Cpath opacity='.12' d='M32.118 14H40v7.364c0-.245-.223-.321-.358-.321h-5.199a1.998 1.998 0 01-1.998-1.999V14.31c0-.094-.11-.31-.327-.31z' fill='%23525C69'/%3E%3Cpath d='M19.692 24.875c0-.5.406-.906.907-.906h12.033a.906.906 0 110 1.812H20.6a.906.906 0 01-.907-.906zm0 4.531c0-.5.406-.906.907-.906h12.033a.906.906 0 110 1.813H20.6a.906.906 0 01-.907-.907zm.907 3.625a.906.906 0 000 1.813h8.341a.906.906 0 000-1.813h-8.341z' fill='%233FD3B4'/%3E%3C/g%3E%3C/svg%3E") center no-repeat;
+	border-radius: 50%;
+	content: '';
+	display: block;
+	width: var(--head-icon-size);
+	min-width: var(--head-icon-size);
+	height: var(--head-icon-size);
+	margin-right: 13px;
+}
+
+.sign-wizard__head_title {
+	font: 26px/26px var(--font_os_light);
+	color: var(--ui-color-palette-black-base);
+	margin: 4px 0 7px;
+}
+
+.sign-wizard__head_title.--sub {
+	font-family: var(--font_os_regular);
+	font-size: 13px;
+	color: var(--ui-color-palette-gray-70);
+	line-height: normal;
+}
+
+.sign-wizard__content {
+	background-color: rgba(255, 255, 255, .8);
+	border-radius: var(--border-radius-md);
+}
+
+.sign-wizard__stages {
+	padding: 15px 26px;
+}
+
+.sign-wizard__stages_item {
+	display: inline-block;
+	color: rgba(82, 92, 105, .5);
+	padding-right: 20px;
+	position: relative;
+	font-family: var(--font_os_semibold);
+	font-size: 14px;
+	line-height: 25px;
+}
+
+.sign-wizard__stages_item.--active {
+	color: var(--ui-color-palette-gray-90);
+}
+
+.sign-wizard__stages_item:not(:last-of-type):after {
+	content: '';
+	border: 2px solid var(--ui-color-palette-gray-90);
+	border-left: none;
+	border-bottom: none;
+	opacity: .2;
+	position: absolute;
+	width: 5px;
+	height: 5px;
+	right: 8px;
+	top: 10px;
+	transform: rotate(45deg);
+}
+
+.sign-wizard__stages_item:last-of-type {
+	padding-right: 0;
+}
+
+.sign-wizard__step {
+	background: var(--ui-color-palette-white-base);
+	padding: 15px 24px 0 24px;
+}
+
+.sign-wizard__footer {
+	background: var(--ui-color-palette-white-base);
+	border-bottom-left-radius: var(--border-radius-md);
+	border-bottom-right-radius: var(--border-radius-md);
+	display: block;
+	padding: 10px 25px 25px 25px;
+	white-space: nowrap;
+}
+
+.sign-wizard__footer:before {
+	border-top: 1px solid rgba(82, 92, 105, .1);
+	content: '';
+	display: block;
+	width: 100%;
+	margin-bottom: 20px;
+}
+
+.sign-wizard__footer_button.ui-btn-disabled,
+.sign-wizard__footer_button.ui-btn-wait {
+	pointer-events: none;
+}
+
+.sign-wizard__footer_button.--hide {
+	display: none;
+}

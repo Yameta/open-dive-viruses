@@ -1,0 +1,21 @@
+<?php
+$MESS["M_TASKS_VIEW_ROUTER_ALL_STAGES_DESCRIPTION"] = "Erstellen Sie Aufgaben und verfolgen Sie deren Fortschritt";
+$MESS["M_TASKS_VIEW_ROUTER_ALL_STAGES_TITLE_MSGVER_1"] = "Sie haben keine Aufgaben in Arbeit";
+$MESS["M_TASKS_VIEW_ROUTER_COMMENTS_READ"] = "Kommentare gelesen";
+$MESS["M_TASKS_VIEW_ROUTER_DEADLINE_STAGE_PERIOD1"] = "Hier werden Ihre überfälligen Aufgaben angezeigt,\nwenn Sie welche haben";
+$MESS["M_TASKS_VIEW_ROUTER_DEADLINE_STAGE_PERIOD2"] = "Hier werden Ihre Aufgaben angezeigt,\ndie heute fällig sind";
+$MESS["M_TASKS_VIEW_ROUTER_DEADLINE_STAGE_PERIOD3"] = "Hier werden Ihre Aufgaben angezeigt,\ndie Ende dieser Woche fällig sind";
+$MESS["M_TASKS_VIEW_ROUTER_DEADLINE_STAGE_PERIOD4"] = "Hier werden Ihre Aufgaben angezeigt,\ndie Ende nächster Woche fällig sind";
+$MESS["M_TASKS_VIEW_ROUTER_DEADLINE_STAGE_PERIOD5"] = "Hier werden Ihre Aufgaben ohne Frist angezeigt";
+$MESS["M_TASKS_VIEW_ROUTER_DEADLINE_STAGE_PERIOD6"] = "Hier werden Ihre Aufgaben angezeigt,\ndie später als in zwei Wochen fällig sind";
+$MESS["M_TASKS_VIEW_ROUTER_EMPTY_IN_PROGRESS"] = "Sie haben keine Aufgaben in Arbeit";
+$MESS["M_TASKS_VIEW_ROUTER_EMPTY_LIST_SEARCH_DESCRIPTION_MSGVER_1"] = "Ändern Sie die Suchanfrage oder versuchen Sie andere Filter zu nutzen";
+$MESS["M_TASKS_VIEW_ROUTER_EMPTY_LIST_SEARCH_TITLE_MSGVER_1"] = "Keine Aufgaben gefunden";
+$MESS["M_TASKS_VIEW_ROUTER_KANBAN_FILTER_DESCRIPTION"] = "Verschieben Sie Aufgaben hierher oder tippen\nSie auf +, um eine neue Aufgabe hinzuzufügen";
+$MESS["M_TASKS_VIEW_ROUTER_KANBAN_FILTER_TITLE"] = "Hier gibt es keine Aufgaben";
+$MESS["M_TASKS_VIEW_ROUTER_MENU_TITLE"] = "Aufgabenansicht";
+$MESS["M_TASKS_VIEW_ROUTER_MENU_TITLE_DEADLINE"] = "Frist";
+$MESS["M_TASKS_VIEW_ROUTER_MENU_TITLE_KANBAN"] = "Kanban";
+$MESS["M_TASKS_VIEW_ROUTER_MENU_TITLE_LIST"] = "Liste";
+$MESS["M_TASKS_VIEW_ROUTER_MENU_TITLE_PLANNER"] = "Planer";
+$MESS["M_TASKS_VIEW_ROUTER_SELECTED_FILTER_TITLE"] = "Es gibt keine Aufgaben,\ndie dem Filter [b]#FILTER_NAME#[/b] entsprechen";

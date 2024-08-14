@@ -1,0 +1,19 @@
+<?php
+$MESS["M_CRM_TL_PAYMENT_DETAILS_BACK_TO_PAYMENT_METHOD"] = "Zurück zu Zahlungsarten";
+$MESS["M_CRM_TL_PAYMENT_PAY_DEFAULT_ERROR_BUTTON_CONFIRM_TITLE"] = "OK";
+$MESS["M_CRM_TL_PAYMENT_PAY_DEFAULT_ERROR_BUTTON_HELP_TITLE"] = "Details";
+$MESS["M_CRM_TL_PAYMENT_PAY_DEFAULT_ERROR_MESSAGE"] = "Überprüfen Sie Ihre Internetverbindung und versuchen Sie es erneut. Wenn das Problem weiterhin besteht, wenden Sie sich an Ihren Bitrix24 Administrator.";
+$MESS["M_CRM_TL_PAYMENT_PAY_DEFAULT_ERROR_TITLE"] = "Aktion kann nicht abgeschlossen werden";
+$MESS["M_CRM_TL_PAYMENT_PAY_FAILURE_CHOOSE_OTHER_PAYMENT_METHOD"] = "Eine andere Zahlungsart auswählen";
+$MESS["M_CRM_TL_PAYMENT_PAY_FAILURE_ERROR_TEXT"] = "Zahlung kann nicht verarbeitet werden";
+$MESS["M_CRM_TL_PAYMENT_PAY_FAILURE_GET_NEW_QR_GET_NEW_QR"] = "Einen neuen QR-Code anfordern";
+$MESS["M_CRM_TL_PAYMENT_PAY_NO_PAY_METHODS"] = "Das Terminal kann derzeit keine Zahlungen empfangen. Aktivieren Sie mindestens eine Zahlungsart in den Terminal-Einstellungen, oder wenden Sie sich an Ihren Vorgesetzten.";
+$MESS["M_CRM_TL_PAYMENT_PAY_PAYMENT_SYSTEM_CREATION_ERROR_MESSAGE"] = "Fehler beim Erstellen eines Zahlungssystems";
+$MESS["M_CRM_TL_PAYMENT_PAY_PLEASE_WAIT"] = "Bitte warten Sie";
+$MESS["M_CRM_TL_PAYMENT_PAY_PRODUCTS_CNT"] = "Produkte: #CNT#";
+$MESS["M_CRM_TL_PAYMENT_PAY_SCAN_QR"] = "Bitten Sie den Kunden, den QR-Code einzuscannen";
+$MESS["M_CRM_TL_PAYMENT_PAY_SUCCESS_BACK_TO_LIST"] = "Zurück zu Zahlungen";
+$MESS["M_CRM_TL_PAYMENT_PAY_SUCCESS_PAYMENT_PAID"] = "Zahlung ##NUMBER# abgeschlossen";
+$MESS["M_CRM_TL_PAYMENT_PAY_VIA_QR_FAST_MONEY_TRANSFER"] = "Per SBP QR-Code zahlen";
+$MESS["M_CRM_TL_PAYMENT_PAY_VIA_QR_PAYMENT_LINK"] = "Per Link zahlen";
+$MESS["M_CRM_TL_PAYMENT_PAY_VIA_QR_SBERBANK"] = "Per SberBank QR-Code zahlen";

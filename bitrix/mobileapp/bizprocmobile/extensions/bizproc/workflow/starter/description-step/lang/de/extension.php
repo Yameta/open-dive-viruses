@@ -1,0 +1,12 @@
+<?php
+$MESS["M_BP_WORKFLOW_STARTER_DESCRIPTION_STEP_AVERAGE_EXECUTION_TIME_DESCRIPTION"] = "Konfigurieren Sie den Workflow, um die Zeit aller involvierten Personen sparen und jeden Schritt schneller erledigen zu können.";
+$MESS["M_BP_WORKFLOW_STARTER_DESCRIPTION_STEP_AVERAGE_EXECUTION_TIME_LINK_TITLE"] = "Wo optimieren Sie die Workflows";
+$MESS["M_BP_WORKFLOW_STARTER_DESCRIPTION_STEP_AVERAGE_EXECUTION_TIME_NO_DATA"] = "keine Daten";
+$MESS["M_BP_WORKFLOW_STARTER_DESCRIPTION_STEP_AVERAGE_EXECUTION_TIME_NO_DATA_DESCRIPTION"] = "Die Daten sind nicht ausreichend, um die Durchschnittszeit zu berechnen.";
+$MESS["M_BP_WORKFLOW_STARTER_DESCRIPTION_STEP_AVERAGE_EXECUTION_TIME_TITLE"] = "Durchschnittliche Ausführungszeit:";
+$MESS["M_BP_WORKFLOW_STARTER_DESCRIPTION_STEP_EMPTY_STATE_DESCRIPTION"] = "Keine Beschreibung";
+$MESS["M_BP_WORKFLOW_STARTER_DESCRIPTION_STEP_ERROR_CONSTANTS_NOT_TUNED"] = "Der Workflow kann nicht gestartet werden, weil die Konstanten nicht konfiguriert sind. Bitte wenden Sie sich an Ihren Bitrix24 Administrator.";
+$MESS["M_BP_WORKFLOW_STARTER_DESCRIPTION_STEP_NEXT_STEP_BUTTON_FINISH_TEXT"] = "Starten";
+$MESS["M_BP_WORKFLOW_STARTER_DESCRIPTION_STEP_NEXT_STEP_BUTTON_TEXT"] = "Fortfahren";
+$MESS["M_BP_WORKFLOW_STARTER_DESCRIPTION_STEP_SUCCESS_MESSAGE"] = "Workflow starten";
+$MESS["M_BP_WORKFLOW_STARTER_DESCRIPTION_STEP_TITLE"] = "Anleitung";

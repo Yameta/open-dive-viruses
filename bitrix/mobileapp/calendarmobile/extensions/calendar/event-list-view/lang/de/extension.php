@@ -1,0 +1,12 @@
+<?php
+$MESS["M_CALENDAR_EVENT_LIST_ALL_DAY"] = "ganzen Tag";
+$MESS["M_CALENDAR_EVENT_LIST_EMPTY_SEARCH_RESULT_TEXT"] = "Versuchen Sie einen anderen Filter zu nutzen, oder ändern Sie den gesuchten Text";
+$MESS["M_CALENDAR_EVENT_LIST_EMPTY_SEARCH_RESULT_TITLE"] = "Keine Termine gefunden";
+$MESS["M_CALENDAR_EVENT_LIST_EMPTY_TITLE"] = "Es gibt keine Termine";
+$MESS["M_CALENDAR_EVENT_LIST_INVITATION"] = "Einladungen";
+$MESS["M_CALENDAR_EVENT_LIST_NO_INVITATIONS_TITLE"] = "Es gibt keine neuen Einladungen";
+$MESS["M_CALENDAR_EVENT_LIST_RESTRICTION_SHARING_SLOTS_FREE"] = "Offene Zeitfenster";
+$MESS["M_CALENDAR_EVENT_LIST_SEARCH_RESULT"] = "Suchergebnisse";
+$MESS["M_CALENDAR_EVENT_LIST_SEARCH_RESULT_BY_QUERY"] = "Suchergebnisse für \"#QUERY#\"";
+$MESS["M_CALENDAR_EVENT_LIST_TILL_TIME"] = "bis #TIME#";
+$MESS["M_CALENDAR_EVENT_LIST_TITLE_SEARCH"] = "Kalender";

@@ -1,0 +1,33 @@
+<?
+$MESS['ASPRO_SMARTSEO_PAGE_TITLE'] = 'Обновление модуля Умный SEO';
+$MESS['ASPRO_SMARTSEO_INSTALL'] = 'Установить Умный SEO';
+$MESS['ASPRO_SMARTSEO_CHECK'] = 'Проверка';
+$MESS['ASPRO_SMARTSEO_CLEAR'] = 'Подготовка архива (удаление ненужных файлов)';
+$MESS["ASPRO_SMARTSEO_DOWNLOAD"] = "Подготовка архива (загрузка)";
+$MESS['ASPRO_SMARTSEO_DOWNLOAD_PART'] = 'Подготовка архива (загрузка #INDEX# из #MAX_INDEX#, передано #TMP_SIZE# из #FILE_SIZE#)';
+$MESS['ASPRO_SMARTSEO_UNZIP'] = 'Подготовка архива (распаковка)';
+$MESS['ASPRO_SMARTSEO_UNZIP_PART'] = 'Подготовка архива (распаковка #INDEX# из #MAX_INDEX#)';
+$MESS['ASPRO_SMARTSEO_COPY'] = 'Копирование файлов';
+$MESS['ASPRO_SMARTSEO_SETUP'] = 'Установка';
+$MESS['ASPRO_SMARTSEO_ERROR'] = 'Ошибка';
+$MESS['ASPRO_SMARTSEO_FINISH'] = 'Установка завершена';
+$MESS['ASPRO_SMARTSEO_DELETE_FINISH'] = 'Удаление завершено';
+$MESS['ASPRO_SMARTSEO_ERROR_SETUP_INDEX'] = 'Не найден установочный файл модуля';
+$MESS['ASPRO_SMARTSEO_OPTIONS_LINK'] = 'Перейти к настройкам модуля Умный SEO';
+$MESS['ASPRO_SMARTSEO_ALREADY_INSTALLED'] = 'Модуль Умный SEO установлен';
+$MESS['ASPRO_SMARTSEO_CAN_DELETE'] = 'Вы можете удалить модуль Умный SEO';
+$MESS['ASPRO_SMARTSEO_BUTTON_DELETE'] = 'Удалить';
+$MESS['ASPRO_SMARTSEO_BUTTON_DOWNLOAD'] = 'Установить';
+$MESS['ASPRO_SMARTSEO_CAN_DOWNLOAD'] = 'Для обновления модуля нажмите кнопку «Установить»';
+$MESS['ASPRO_SMARTSEO_CLEAR_FINAL'] = 'Удаление временных файлов';
+$MESS['ASPRO_SMARTSEO_UPDATES_AVAILABLE'] = "Доступных обновлений: #COUNT_UPDATES#";
+$MESS['ASPRO_SMARTSEO_NO_UPDATES_AVAILABLE'] = 'Нет доступных обновлений';
+$MESS['ASPRO_SMARTSEO_CHECK_UPDATES_AVAIBLE'] = 'Проверка доступных обновлений';
+$MESS['ASPRO_SMARTSEO_UPDATE_TAB'] = 'Обновления';
+$MESS['ASPRO_SMARTSEO_UPDATE_TAB_TITLE'] = 'Обновления';
+$MESS['ASPRO_SMARTSEO_UPDATE_OBF_FILES_ERROR'] = 'Внимание! Мы обнаружили, что были сброшены права доступа на системные файлы модуля Аспро: Умный SEO. Возможны проблемы с получением обновлений модуля. <a href="https://aspro.ru/kb/article/433/">Подробнее</a>.';
+$MESS['ASPRO_SMARTSEO_BUTTON_DESCRIPTION'] = 'Подробности';
+$MESS['ASPRO_SMARTSEO_TITLE_DESCRIPTION'] = 'Доступные обновления';
+$MESS['ASPRO_SMARTSEO_DESCRIPTION_VERSION'] = 'Версия ';
+$MESS['ASPRO_SMARTSEO_DESCRIPTION_ALERT'] = 'Внимание!!! Перед установкой обновления ОБЯЗАТЕЛЬНО выполните полное резервное копирование сайта. Если вы вносили изменения в шаблон решения, то дополнительно скопируйте всю папку шаблона!';
+?>

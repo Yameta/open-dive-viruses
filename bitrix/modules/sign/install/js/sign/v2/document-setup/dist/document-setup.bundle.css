@@ -1,0 +1,4 @@
+.sign-document-setup.--pending {
+	opacity: .6;
+	pointer-events: none;
+}

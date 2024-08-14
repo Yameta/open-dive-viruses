@@ -1,0 +1,29 @@
+<?
+$MESS ['SCODER_COLLECTIONS_PAGE_TITLE'] = "Коллекции";
+$MESS ['ACCESS_DENIED'] = "Доступ запрещен";
+$MESS ['SCODER_COLLECTIONS_NAV'] = "Коллекции";
+$MESS ['SCODER_COLLECTIONS_FIND'] = "Найти";
+
+
+$MESS ['SCODER_COLLECTIONS_IBLOCK_ID'] = "Инфоблок";
+$MESS ['SCODER_COLLECTIONS_SECTION_ID'] = "Раздел";
+$MESS ['SCODER_COLLECTIONS_CHECK_PARENT'] = "Учет родителя";
+$MESS ['SCODER_COLLECTIONS_CATALOG_AVAILABLE'] = "Учет доступности";
+$MESS ['SCODER_COLLECTIONS_IS_SECTION_ACTIVE_UPDATE'] = "Смена активности";
+$MESS ['SCODER_COLLECTIONS_TYPE_ID'] = "Тип конструктора";
+
+$MESS ['SCODER_COLLECTIONS_ACTIVE_TEXT_Y'] = "да";
+$MESS ['SCODER_COLLECTIONS_ACTIVE_TEXT_N'] = "нет";
+$MESS ['SCODER_COLLECTIONS_F_ALL'] = "все";
+$MESS ['SCODER_COLLECTIONS_TYPE_ID_TEXT_F'] = "Фильтр";
+$MESS ['SCODER_COLLECTIONS_TYPE_ID_TEXT_D'] = "Логическое дерево";
+
+
+$MESS["SCODER_COLLECTIONS_ADD"] = "Добавить";
+$MESS["SCODER_COLLECTIONS_ADD_TITLE"] = "Добавить коллекцию";
+$MESS["SCODER_COLLECTIONS_CONTEXT_EDIT"] = "Редактировать";
+$MESS["SCODER_COLLECTIONS_CONTEXT_DELETE"] = "Удалить";
+$MESS["SCODER_COLLECTIONS_DELETE_CONFIRM"] = "Вы уверены, что хотите удалить эту коллекцию?";
+$MESS["SCODER_NOT_VALUE"] = "нет:";
+
+?>

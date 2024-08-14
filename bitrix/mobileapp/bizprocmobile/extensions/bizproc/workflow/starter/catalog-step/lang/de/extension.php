@@ -1,0 +1,4 @@
+<?php
+$MESS["M_BP_WORKFLOW_STARTER_CATALOG_STEP_EMPTY_STATE_DESCRIPTION"] = "Es gibt keine Workflows, die gestartet werden können";
+$MESS["M_BP_WORKFLOW_STARTER_CATALOG_STEP_NEXT_STEP_BUTTON_TEXT"] = "Fortfahren";
+$MESS["M_BP_WORKFLOW_STARTER_CATALOG_STEP_TITLE"] = "Workflow auswählen";

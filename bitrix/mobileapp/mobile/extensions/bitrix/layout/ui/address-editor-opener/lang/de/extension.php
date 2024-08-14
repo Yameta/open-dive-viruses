@@ -1,0 +1,4 @@
+<?php
+$MESS["ADDRESS_EDITOR_OPENER_EDIT_ADDRESS"] = "Adresse bearbeiten";
+$MESS["ADDRESS_EDITOR_OPENER_SPECIFY_ADDRESS"] = "Adresse eingeben";
+$MESS["ADDRESS_EDITOR_OPENER_VIEW_ADDRESS"] = "Adresse anzeigen";

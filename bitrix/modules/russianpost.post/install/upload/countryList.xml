@@ -1,0 +1,1967 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hiblock>
+	<hiblock>
+		<id>7</id>
+		<name>PostListCountryCodes</name>
+		<table_name>b_postlist_country_codes</table_name>
+	</hiblock>
+	<langs>
+		<lang>
+			<id>7</id>
+			<lid>ru</lid>
+			<name>Справочник кодов стран</name>
+		</lang>
+	</langs>
+	<fields>
+		<field>
+			<id>76</id>
+			<entity_id>HLBLOCK_7</entity_id>
+			<field_name>UF_NAME</field_name>
+			<user_type_id>string</user_type_id>
+			<xml_id />
+			<sort>100</sort>
+			<multiple>N</multiple>
+			<mandatory>N</mandatory>
+			<show_filter>N</show_filter>
+			<show_in_list>Y</show_in_list>
+			<edit_in_list>Y</edit_in_list>
+			<is_searchable>N</is_searchable>
+			<settings>
+				<size>20</size>
+				<rows>1</rows>
+				<regexp />
+				<min_length>0</min_length>
+				<max_length>0</max_length>
+				<default_value />
+			</settings>
+			<edit_form_label>
+				<en />
+				<ru>Название страны</ru>
+			</edit_form_label>
+			<list_column_label>
+				<en />
+				<ru>Название страны</ru>
+			</list_column_label>
+			<list_filter_label>
+				<en />
+				<ru>Название страны</ru>
+			</list_filter_label>
+			<error_message>
+				<en />
+				<ru />
+			</error_message>
+			<help_message>
+				<en />
+				<ru>Название страны</ru>
+			</help_message>
+			<base_type>string</base_type>
+		</field>
+		<field>
+			<id>77</id>
+			<entity_id>HLBLOCK_7</entity_id>
+			<field_name>UF_CODE</field_name>
+			<user_type_id>string</user_type_id>
+			<xml_id />
+			<sort>100</sort>
+			<multiple>N</multiple>
+			<mandatory>N</mandatory>
+			<show_filter>N</show_filter>
+			<show_in_list>Y</show_in_list>
+			<edit_in_list>Y</edit_in_list>
+			<is_searchable>N</is_searchable>
+			<settings>
+				<size>20</size>
+				<rows>1</rows>
+				<regexp />
+				<min_length>0</min_length>
+				<max_length>0</max_length>
+				<default_value />
+			</settings>
+			<edit_form_label>
+				<en />
+				<ru>Буквенный идентификатор</ru>
+			</edit_form_label>
+			<list_column_label>
+				<en />
+				<ru>Буквенный идентификатор</ru>
+			</list_column_label>
+			<list_filter_label>
+				<en />
+				<ru>Буквенный идентификатор</ru>
+			</list_filter_label>
+			<error_message>
+				<en />
+				<ru />
+			</error_message>
+			<help_message>
+				<en />
+				<ru>Буквенный идентификатор</ru>
+			</help_message>
+			<base_type>string</base_type>
+		</field>
+		<field>
+			<id>78</id>
+			<entity_id>HLBLOCK_7</entity_id>
+			<field_name>UF_DIGIT_CODE</field_name>
+			<user_type_id>integer</user_type_id>
+			<xml_id />
+			<sort>100</sort>
+			<multiple>N</multiple>
+			<mandatory>N</mandatory>
+			<show_filter>N</show_filter>
+			<show_in_list>Y</show_in_list>
+			<edit_in_list>Y</edit_in_list>
+			<is_searchable>N</is_searchable>
+			<settings>
+				<size>20</size>
+				<min_value>0</min_value>
+				<max_value>0</max_value>
+				<default_value />
+			</settings>
+			<edit_form_label>
+				<en />
+				<ru>Цифровой идентификатор</ru>
+			</edit_form_label>
+			<list_column_label>
+				<en />
+				<ru>Цифровой идентификатор</ru>
+			</list_column_label>
+			<list_filter_label>
+				<en />
+				<ru>Цифровой идентификатор</ru>
+			</list_filter_label>
+			<error_message>
+				<en />
+				<ru />
+			</error_message>
+			<help_message>
+				<en />
+				<ru>Цифровой идентификатор</ru>
+			</help_message>
+			<base_type>int</base_type>
+		</field>
+		<field>
+			<id>79</id>
+			<entity_id>HLBLOCK_7</entity_id>
+			<field_name>UF_BX_CODE</field_name>
+			<user_type_id>string</user_type_id>
+			<xml_id />
+			<sort>100</sort>
+			<multiple>N</multiple>
+			<mandatory>N</mandatory>
+			<show_filter>N</show_filter>
+			<show_in_list>Y</show_in_list>
+			<edit_in_list>Y</edit_in_list>
+			<is_searchable>N</is_searchable>
+			<settings>
+				<size>20</size>
+				<rows>1</rows>
+				<regexp />
+				<min_length>0</min_length>
+				<max_length>0</max_length>
+				<default_value />
+			</settings>
+			<edit_form_label>
+				<en />
+				<ru>Код страны в системе Битрикс</ru>
+			</edit_form_label>
+			<list_column_label>
+				<en />
+				<ru>Код страны в системе Битрикс</ru>
+			</list_column_label>
+			<list_filter_label>
+				<en />
+				<ru>Код страны в системе Битрикс</ru>
+			</list_filter_label>
+			<error_message>
+				<en />
+				<ru />
+			</error_message>
+			<help_message>
+				<en />
+				<ru>Код страны в системе Битрикс</ru>
+			</help_message>
+			<base_type>string</base_type>
+		</field>
+	</fields>
+	<items>
+		<item>
+			<id>1</id>
+			<uf_name>Абхазия</uf_name>
+			<uf_code />
+			<uf_digit_code>895</uf_digit_code>
+			<uf_bx_code />
+		</item>
+		<item>
+			<id>2</id>
+			<uf_name>Австралия</uf_name>
+			<uf_code>AU</uf_code>
+			<uf_digit_code>36</uf_digit_code>
+			<uf_bx_code>0000027986</uf_bx_code>
+		</item>
+		<item>
+			<id>3</id>
+			<uf_name>Австрия</uf_name>
+			<uf_code>AT</uf_code>
+			<uf_digit_code>40</uf_digit_code>
+			<uf_bx_code>0000027951</uf_bx_code>
+		</item>
+		<item>
+			<id>4</id>
+			<uf_name>Азербайджан</uf_name>
+			<uf_code>AZ</uf_code>
+			<uf_digit_code>31</uf_digit_code>
+			<uf_bx_code>0000027989</uf_bx_code>
+		</item>
+		<item>
+			<id>5</id>
+			<uf_name>Албания</uf_name>
+			<uf_code>AL</uf_code>
+			<uf_digit_code>8</uf_digit_code>
+			<uf_bx_code>0000027949</uf_bx_code>
+		</item>
+		<item>
+			<id>6</id>
+			<uf_name>Алжир</uf_name>
+			<uf_code>DZ</uf_code>
+			<uf_digit_code>12</uf_digit_code>
+			<uf_bx_code>0010000047</uf_bx_code>
+		</item>
+		<item>
+			<id>7</id>
+			<uf_name>Американское Самоа</uf_name>
+			<uf_code>AS</uf_code>
+			<uf_digit_code>16</uf_digit_code>
+			<uf_bx_code />
+		</item>
+		<item>
+			<id>8</id>
+			<uf_name>Ангилья</uf_name>
+			<uf_code>AI</uf_code>
+			<uf_digit_code>660</uf_digit_code>
+			<uf_bx_code>0010000004</uf_bx_code>
+		</item>
+		<item>
+			<id>9</id>
+			<uf_name>Ангола</uf_name>
+			<uf_code>AO</uf_code>
+			<uf_digit_code>24</uf_digit_code>
+			<uf_bx_code>0000027987</uf_bx_code>
+		</item>
+		<item>
+			<id>10</id>
+			<uf_name>Андорра</uf_name>
+			<uf_code>AD</uf_code>
+			<uf_digit_code>20</uf_digit_code>
+			<uf_bx_code>0000027950</uf_bx_code>
+		</item>
+		<item>
+			<id>11</id>
+			<uf_name>Антарктида</uf_name>
+			<uf_code>AQ</uf_code>
+			<uf_digit_code>10</uf_digit_code>
+			<uf_bx_code />
+		</item>
+		<item>
+			<id>12</id>
+			<uf_name>Антигуа и Барбуда</uf_name>
+			<uf_code>AG</uf_code>
+			<uf_digit_code>28</uf_digit_code>
+			<uf_bx_code>0010000003</uf_bx_code>
+		</item>
+		<item>
+			<id>13</id>
+			<uf_name>Аргентина</uf_name>
+			<uf_code>AR</uf_code>
+			<uf_digit_code>32</uf_digit_code>
+			<uf_bx_code>0010000007</uf_bx_code>
+		</item>
+		<item>
+			<id>14</id>
+			<uf_name>Армения</uf_name>
+			<uf_code>AM</uf_code>
+			<uf_digit_code>51</uf_digit_code>
+			<uf_bx_code>0000028018</uf_bx_code>
+		</item>
+		<item>
+			<id>15</id>
+			<uf_name>Аруба</uf_name>
+			<uf_code>AW</uf_code>
+			<uf_digit_code>533</uf_digit_code>
+			<uf_bx_code>0010000009</uf_bx_code>
+		</item>
+		<item>
+			<id>16</id>
+			<uf_name>Афганистан</uf_name>
+			<uf_code>AF</uf_code>
+			<uf_digit_code>4</uf_digit_code>
+			<uf_bx_code>0010000002</uf_bx_code>
+		</item>
+		<item>
+			<id>17</id>
+			<uf_name>Багамы</uf_name>
+			<uf_code>BS</uf_code>
+			<uf_digit_code>44</uf_digit_code>
+			<uf_bx_code />
+		</item>
+		<item>
+			<id>18</id>
+			<uf_name>Бангладеш</uf_name>
+			<uf_code>BD</uf_code>
+			<uf_digit_code>50</uf_digit_code>
+			<uf_bx_code>0010000012</uf_bx_code>
+		</item>
+		<item>
+			<id>19</id>
+			<uf_name>Барбадос</uf_name>
+			<uf_code>BB</uf_code>
+			<uf_digit_code>52</uf_digit_code>
+			<uf_bx_code>0010000011</uf_bx_code>
+		</item>
+		<item>
+			<id>20</id>
+			<uf_name>Бахрейн</uf_name>
+			<uf_code>BH</uf_code>
+			<uf_digit_code>48</uf_digit_code>
+			<uf_bx_code>0010000014</uf_bx_code>
+		</item>
+		<item>
+			<id>21</id>
+			<uf_name>Белиз</uf_name>
+			<uf_code>BZ</uf_code>
+			<uf_digit_code>84</uf_digit_code>
+			<uf_bx_code>0010000027</uf_bx_code>
+		</item>
+		<item>
+			<id>22</id>
+			<uf_name>Беларусь</uf_name>
+			<uf_code>BY</uf_code>
+			<uf_digit_code>112</uf_digit_code>
+			<uf_bx_code>0000000001</uf_bx_code>
+		</item>
+		<item>
+			<id>23</id>
+			<uf_name>Бельгия</uf_name>
+			<uf_code>BE</uf_code>
+			<uf_digit_code>56</uf_digit_code>
+			<uf_bx_code>0000027952</uf_bx_code>
+		</item>
+		<item>
+			<id>24</id>
+			<uf_name>Бенин</uf_name>
+			<uf_code>BJ</uf_code>
+			<uf_digit_code>204</uf_digit_code>
+			<uf_bx_code>0010000016</uf_bx_code>
+		</item>
+		<item>
+			<id>25</id>
+			<uf_name>Бермудские острова</uf_name>
+			<uf_code>BM</uf_code>
+			<uf_digit_code>60</uf_digit_code>
+			<uf_bx_code>0010000018</uf_bx_code>
+		</item>
+		<item>
+			<id>26</id>
+			<uf_name>Болгария</uf_name>
+			<uf_code>BG</uf_code>
+			<uf_digit_code>100</uf_digit_code>
+			<uf_bx_code>0000027953</uf_bx_code>
+		</item>
+		<item>
+			<id>27</id>
+			<uf_name>Боливия</uf_name>
+			<uf_code>BO</uf_code>
+			<uf_digit_code>68</uf_digit_code>
+			<uf_bx_code>0010000020</uf_bx_code>
+		</item>
+		<item>
+			<id>28</id>
+			<uf_name>Бонэйр, синт</uf_name>
+			<uf_code>эстатиус и саба</uf_code>
+			<uf_digit_code>535</uf_digit_code>
+			<uf_bx_code />
+		</item>
+		<item>
+			<id>29</id>
+			<uf_name>Босния и Герцеговина</uf_name>
+			<uf_code>BA</uf_code>
+			<uf_digit_code>70</uf_digit_code>
+			<uf_bx_code>0000027982</uf_bx_code>
+		</item>
+		<item>
+			<id>30</id>
+			<uf_name>Ботсвана</uf_name>
+			<uf_code>BW</uf_code>
+			<uf_digit_code>72</uf_digit_code>
+			<uf_bx_code>0010000026</uf_bx_code>
+		</item>
+		<item>
+			<id>31</id>
+			<uf_name>Бразилия</uf_name>
+			<uf_code>BR</uf_code>
+			<uf_digit_code>76</uf_digit_code>
+			<uf_bx_code>0010000022</uf_bx_code>
+		</item>
+		<item>
+			<id>32</id>
+			<uf_name>Британская территория в Индийском океане</uf_name>
+			<uf_code>IO</uf_code>
+			<uf_digit_code>86</uf_digit_code>
+			<uf_bx_code>0010000080</uf_bx_code>
+		</item>
+		<item>
+			<id>33</id>
+			<uf_name>Бруней</uf_name>
+			<uf_code>Даруссалам</uf_code>
+			<uf_digit_code>96</uf_digit_code>
+			<uf_bx_code>0010000019</uf_bx_code>
+		</item>
+		<item>
+			<id>34</id>
+			<uf_name>Буркина</uf_name>
+			<uf_code>Фасо</uf_code>
+			<uf_digit_code>854</uf_digit_code>
+			<uf_bx_code />
+		</item>
+		<item>
+			<id>35</id>
+			<uf_name>Бурунди</uf_name>
+			<uf_code>BI</uf_code>
+			<uf_digit_code>108</uf_digit_code>
+			<uf_bx_code>0010000015</uf_bx_code>
+		</item>
+		<item>
+			<id>36</id>
+			<uf_name>Бутан</uf_name>
+			<uf_code>BT</uf_code>
+			<uf_digit_code>64</uf_digit_code>
+			<uf_bx_code>0010000024</uf_bx_code>
+		</item>
+		<item>
+			<id>37</id>
+			<uf_name>Вануату</uf_name>
+			<uf_code>VU</uf_code>
+			<uf_digit_code>548</uf_digit_code>
+			<uf_bx_code>0010000187</uf_bx_code>
+		</item>
+		<item>
+			<id>38</id>
+			<uf_name>Великобритания</uf_name>
+			<uf_code>GB</uf_code>
+			<uf_digit_code>826</uf_digit_code>
+			<uf_bx_code>0000027979</uf_bx_code>
+		</item>
+		<item>
+			<id>39</id>
+			<uf_name>Венгрия</uf_name>
+			<uf_code>HU</uf_code>
+			<uf_digit_code>348</uf_digit_code>
+			<uf_bx_code>0000027960</uf_bx_code>
+		</item>
+		<item>
+			<id>40</id>
+			<uf_name>Венесуэла</uf_name>
+			<uf_code>VE</uf_code>
+			<uf_digit_code>862</uf_digit_code>
+			<uf_bx_code>0010000183</uf_bx_code>
+		</item>
+		<item>
+			<id>41</id>
+			<uf_name>Виргинские острова, Британские</uf_name>
+			<uf_code>VG</uf_code>
+			<uf_digit_code>92</uf_digit_code>
+			<uf_bx_code />
+		</item>
+		<item>
+			<id>42</id>
+			<uf_name>Виргинские острова, США</uf_name>
+			<uf_code>VI</uf_code>
+			<uf_digit_code>850</uf_digit_code>
+			<uf_bx_code />
+		</item>
+		<item>
+			<id>43</id>
+			<uf_name>Вьетнам</uf_name>
+			<uf_code>VN</uf_code>
+			<uf_digit_code>704</uf_digit_code>
+			<uf_bx_code>0010000186</uf_bx_code>
+		</item>
+		<item>
+			<id>44</id>
+			<uf_name>Габон</uf_name>
+			<uf_code>GA</uf_code>
+			<uf_digit_code>266</uf_digit_code>
+			<uf_bx_code>0010000057</uf_bx_code>
+		</item>
+		<item>
+			<id>45</id>
+			<uf_name>Гаити</uf_name>
+			<uf_code>HT</uf_code>
+			<uf_digit_code>332</uf_digit_code>
+			<uf_bx_code>0010000076</uf_bx_code>
+		</item>
+		<item>
+			<id>46</id>
+			<uf_name>Гайана</uf_name>
+			<uf_code>GY</uf_code>
+			<uf_digit_code>328</uf_digit_code>
+			<uf_bx_code>0010000072</uf_bx_code>
+		</item>
+		<item>
+			<id>47</id>
+			<uf_name>Гамбия</uf_name>
+			<uf_code>GM</uf_code>
+			<uf_digit_code>270</uf_digit_code>
+			<uf_bx_code>0010000064</uf_bx_code>
+		</item>
+		<item>
+			<id>48</id>
+			<uf_name>Гана</uf_name>
+			<uf_code>GH</uf_code>
+			<uf_digit_code>288</uf_digit_code>
+			<uf_bx_code>0010000061</uf_bx_code>
+		</item>
+		<item>
+			<id>49</id>
+			<uf_name>Гваделупа</uf_name>
+			<uf_code>GP</uf_code>
+			<uf_digit_code>312</uf_digit_code>
+			<uf_bx_code>0010000066</uf_bx_code>
+		</item>
+		<item>
+			<id>50</id>
+			<uf_name>Гватемала</uf_name>
+			<uf_code>GT</uf_code>
+			<uf_digit_code>320</uf_digit_code>
+			<uf_bx_code>0010000069</uf_bx_code>
+		</item>
+		<item>
+			<id>51</id>
+			<uf_name>Гвинея</uf_name>
+			<uf_code>GN</uf_code>
+			<uf_digit_code>324</uf_digit_code>
+			<uf_bx_code>0010000065</uf_bx_code>
+		</item>
+		<item>
+			<id>52</id>
+			<uf_name>Гвинея</uf_name>
+			<uf_code>Бисау</uf_code>
+			<uf_digit_code>624</uf_digit_code>
+			<uf_bx_code>0010000065</uf_bx_code>
+		</item>
+		<item>
+			<id>53</id>
+			<uf_name>Германия</uf_name>
+			<uf_code>DE</uf_code>
+			<uf_digit_code>276</uf_digit_code>
+			<uf_bx_code>0000027958</uf_bx_code>
+		</item>
+		<item>
+			<id>54</id>
+			<uf_name>Гернси</uf_name>
+			<uf_code>GG</uf_code>
+			<uf_digit_code>831</uf_digit_code>
+			<uf_bx_code>0010000060</uf_bx_code>
+		</item>
+		<item>
+			<id>55</id>
+			<uf_name>Гибралтар (Великобритания)</uf_name>
+			<uf_code>GI</uf_code>
+			<uf_digit_code>292</uf_digit_code>
+			<uf_bx_code />
+		</item>
+		<item>
+			<id>56</id>
+			<uf_name>Гондурас</uf_name>
+			<uf_code>HN</uf_code>
+			<uf_digit_code>340</uf_digit_code>
+			<uf_bx_code>0010000075</uf_bx_code>
+		</item>
+		<item>
+			<id>57</id>
+			<uf_name>Гонконг</uf_name>
+			<uf_code>HK</uf_code>
+			<uf_digit_code>344</uf_digit_code>
+			<uf_bx_code>0010000073</uf_bx_code>
+		</item>
+		<item>
+			<id>58</id>
+			<uf_name>Гренада</uf_name>
+			<uf_code>GD</uf_code>
+			<uf_digit_code>308</uf_digit_code>
+			<uf_bx_code>0010000058</uf_bx_code>
+		</item>
+		<item>
+			<id>59</id>
+			<uf_name>Гренландия</uf_name>
+			<uf_code>GL</uf_code>
+			<uf_digit_code>304</uf_digit_code>
+			<uf_bx_code>0010000063</uf_bx_code>
+		</item>
+		<item>
+			<id>60</id>
+			<uf_name>Греция</uf_name>
+			<uf_code>GR</uf_code>
+			<uf_digit_code>300</uf_digit_code>
+			<uf_bx_code>0000027959</uf_bx_code>
+		</item>
+		<item>
+			<id>61</id>
+			<uf_name>Грузия</uf_name>
+			<uf_code>GE</uf_code>
+			<uf_digit_code>268</uf_digit_code>
+			<uf_bx_code>0000027999</uf_bx_code>
+		</item>
+		<item>
+			<id>62</id>
+			<uf_name>Гуам</uf_name>
+			<uf_code>GU</uf_code>
+			<uf_digit_code>316</uf_digit_code>
+			<uf_bx_code>0010000070</uf_bx_code>
+		</item>
+		<item>
+			<id>63</id>
+			<uf_name>Дания</uf_name>
+			<uf_code>DK</uf_code>
+			<uf_digit_code>208</uf_digit_code>
+			<uf_bx_code>0000027955</uf_bx_code>
+		</item>
+		<item>
+			<id>64</id>
+			<uf_name>Джерси</uf_name>
+			<uf_code>JE</uf_code>
+			<uf_digit_code>832</uf_digit_code>
+			<uf_bx_code>0010000083</uf_bx_code>
+		</item>
+		<item>
+			<id>65</id>
+			<uf_name>Джибути</uf_name>
+			<uf_code>DJ</uf_code>
+			<uf_digit_code>262</uf_digit_code>
+			<uf_bx_code>0010000044</uf_bx_code>
+		</item>
+		<item>
+			<id>66</id>
+			<uf_name>Доминика</uf_name>
+			<uf_code>DM</uf_code>
+			<uf_digit_code>212</uf_digit_code>
+			<uf_bx_code>0010000045</uf_bx_code>
+		</item>
+		<item>
+			<id>67</id>
+			<uf_name>Доминиканская Республика</uf_name>
+			<uf_code>DO</uf_code>
+			<uf_digit_code>214</uf_digit_code>
+			<uf_bx_code>0010000046</uf_bx_code>
+		</item>
+		<item>
+			<id>68</id>
+			<uf_name>Египет</uf_name>
+			<uf_code>EG</uf_code>
+			<uf_digit_code>818</uf_digit_code>
+			<uf_bx_code>0010000049</uf_bx_code>
+		</item>
+		<item>
+			<id>69</id>
+			<uf_name>Замбия</uf_name>
+			<uf_code>ZM</uf_code>
+			<uf_digit_code>894</uf_digit_code>
+			<uf_bx_code>0010000193</uf_bx_code>
+		</item>
+		<item>
+			<id>70</id>
+			<uf_name>Западная Сахара</uf_name>
+			<uf_code>EH</uf_code>
+			<uf_digit_code>732</uf_digit_code>
+			<uf_bx_code>0010000050</uf_bx_code>
+		</item>
+		<item>
+			<id>71</id>
+			<uf_name>Зимбабве</uf_name>
+			<uf_code>ZW</uf_code>
+			<uf_digit_code>716</uf_digit_code>
+			<uf_bx_code>0010000194</uf_bx_code>
+		</item>
+		<item>
+			<id>72</id>
+			<uf_name>Израиль</uf_name>
+			<uf_code>IL</uf_code>
+			<uf_digit_code>376</uf_digit_code>
+			<uf_bx_code>0000027985</uf_bx_code>
+		</item>
+		<item>
+			<id>73</id>
+			<uf_name>Индия</uf_name>
+			<uf_code>IN</uf_code>
+			<uf_digit_code>356</uf_digit_code>
+			<uf_bx_code>0010000079</uf_bx_code>
+		</item>
+		<item>
+			<id>74</id>
+			<uf_name>Индонезия</uf_name>
+			<uf_code>ID</uf_code>
+			<uf_digit_code>360</uf_digit_code>
+			<uf_bx_code>0010000077</uf_bx_code>
+		</item>
+		<item>
+			<id>75</id>
+			<uf_name>Иордания</uf_name>
+			<uf_code>JO</uf_code>
+			<uf_digit_code>400</uf_digit_code>
+			<uf_bx_code>0010000085</uf_bx_code>
+		</item>
+		<item>
+			<id>76</id>
+			<uf_name>Ирак</uf_name>
+			<uf_code>IQ</uf_code>
+			<uf_digit_code>368</uf_digit_code>
+			<uf_bx_code>0010000081</uf_bx_code>
+		</item>
+		<item>
+			<id>77</id>
+			<uf_name>Иран, Исламская Республика</uf_name>
+			<uf_code>IR</uf_code>
+			<uf_digit_code>364</uf_digit_code>
+			<uf_bx_code />
+		</item>
+		<item>
+			<id>78</id>
+			<uf_name>Ирландия</uf_name>
+			<uf_code>IE</uf_code>
+			<uf_digit_code>372</uf_digit_code>
+			<uf_bx_code>0000027975</uf_bx_code>
+		</item>
+		<item>
+			<id>79</id>
+			<uf_name>Исландия</uf_name>
+			<uf_code>IS</uf_code>
+			<uf_digit_code>352</uf_digit_code>
+			<uf_bx_code>0000027961</uf_bx_code>
+		</item>
+		<item>
+			<id>80</id>
+			<uf_name>Испания</uf_name>
+			<uf_code>ES</uf_code>
+			<uf_digit_code>724</uf_digit_code>
+			<uf_bx_code>0000027976</uf_bx_code>
+		</item>
+		<item>
+			<id>81</id>
+			<uf_name>Италия</uf_name>
+			<uf_code>IT</uf_code>
+			<uf_digit_code>380</uf_digit_code>
+			<uf_bx_code>0000027962</uf_bx_code>
+		</item>
+		<item>
+			<id>82</id>
+			<uf_name>Йемен</uf_name>
+			<uf_code>YE</uf_code>
+			<uf_digit_code>887</uf_digit_code>
+			<uf_bx_code>0010000190</uf_bx_code>
+		</item>
+		<item>
+			<id>83</id>
+			<uf_name>Кабо</uf_name>
+			<uf_code>Верде</uf_code>
+			<uf_digit_code>132</uf_digit_code>
+			<uf_bx_code />
+		</item>
+		<item>
+			<id>84</id>
+			<uf_name>Казахстан</uf_name>
+			<uf_code>KZ</uf_code>
+			<uf_digit_code>398</uf_digit_code>
+			<uf_bx_code>0000000276</uf_bx_code>
+		</item>
+		<item>
+			<id>85</id>
+			<uf_name>Камбоджа</uf_name>
+			<uf_code>KH</uf_code>
+			<uf_digit_code>116</uf_digit_code>
+			<uf_bx_code>0010000088</uf_bx_code>
+		</item>
+		<item>
+			<id>86</id>
+			<uf_name>Камерун</uf_name>
+			<uf_code>CM</uf_code>
+			<uf_digit_code>120</uf_digit_code>
+			<uf_bx_code>0010000035</uf_bx_code>
+		</item>
+		<item>
+			<id>87</id>
+			<uf_name>Канада</uf_name>
+			<uf_code>CA</uf_code>
+			<uf_digit_code>124</uf_digit_code>
+			<uf_bx_code>0000027948</uf_bx_code>
+		</item>
+		<item>
+			<id>88</id>
+			<uf_name>Катар</uf_name>
+			<uf_code>QA</uf_code>
+			<uf_digit_code>634</uf_digit_code>
+			<uf_bx_code>0010000143</uf_bx_code>
+		</item>
+		<item>
+			<id>89</id>
+			<uf_name>Кения</uf_name>
+			<uf_code>KE</uf_code>
+			<uf_digit_code>404</uf_digit_code>
+			<uf_bx_code>0010000087</uf_bx_code>
+		</item>
+		<item>
+			<id>90</id>
+			<uf_name>Кипр</uf_name>
+			<uf_code>CY</uf_code>
+			<uf_digit_code>196</uf_digit_code>
+			<uf_bx_code>0010000043</uf_bx_code>
+		</item>
+		<item>
+			<id>91</id>
+			<uf_name>Киргизия</uf_name>
+			<uf_code>KG</uf_code>
+			<uf_digit_code>417</uf_digit_code>
+			<uf_bx_code />
+		</item>
+		<item>
+			<id>92</id>
+			<uf_name>Кирибати</uf_name>
+			<uf_code>KI</uf_code>
+			<uf_digit_code>296</uf_digit_code>
+			<uf_bx_code>0010000089</uf_bx_code>
+		</item>
+		<item>
+			<id>93</id>
+			<uf_name>Китай</uf_name>
+			<uf_code>CN</uf_code>
+			<uf_digit_code>156</uf_digit_code>
+			<uf_bx_code>0010000036</uf_bx_code>
+		</item>
+		<item>
+			<id>94</id>
+			<uf_name>Кокосовые (Килинг) острова</uf_name>
+			<uf_code>CC</uf_code>
+			<uf_digit_code>166</uf_digit_code>
+			<uf_bx_code />
+		</item>
+		<item>
+			<id>95</id>
+			<uf_name>Колумбия</uf_name>
+			<uf_code>CO</uf_code>
+			<uf_digit_code>170</uf_digit_code>
+			<uf_bx_code>0010000037</uf_bx_code>
+		</item>
+		<item>
+			<id>96</id>
+			<uf_name>Коморы</uf_name>
+			<uf_code>KM</uf_code>
+			<uf_digit_code>174</uf_digit_code>
+			<uf_bx_code />
+		</item>
+		<item>
+			<id>97</id>
+			<uf_name>Косово</uf_name>
+			<uf_code />
+			<uf_digit_code>914</uf_digit_code>
+			<uf_bx_code />
+		</item>
+		<item>
+			<id>98</id>
+			<uf_name>Конго</uf_name>
+			<uf_code>CG</uf_code>
+			<uf_digit_code>178</uf_digit_code>
+			<uf_bx_code>0010000031</uf_bx_code>
+		</item>
+		<item>
+			<id>99</id>
+			<uf_name>Конго, Демократическая Республика</uf_name>
+			<uf_code>CD</uf_code>
+			<uf_digit_code>180</uf_digit_code>
+			<uf_bx_code />
+		</item>
+		<item>
+			<id>100</id>
+			<uf_name>Коста</uf_name>
+			<uf_code>Рика</uf_code>
+			<uf_digit_code>188</uf_digit_code>
+			<uf_bx_code />
+		</item>
+		<item>
+			<id>101</id>
+			<uf_name>Кот д&apos;Ивуар</uf_name>
+			<uf_code>CI</uf_code>
+			<uf_digit_code>384</uf_digit_code>
+			<uf_bx_code />
+		</item>
+		<item>
+			<id>102</id>
+			<uf_name>Куба</uf_name>
+			<uf_code>CU</uf_code>
+			<uf_digit_code>192</uf_digit_code>
+			<uf_bx_code>0010000039</uf_bx_code>
+		</item>
+		<item>
+			<id>103</id>
+			<uf_name>Кувейт</uf_name>
+			<uf_code>KW</uf_code>
+			<uf_digit_code>414</uf_digit_code>
+			<uf_bx_code>0010000094</uf_bx_code>
+		</item>
+		<item>
+			<id>104</id>
+			<uf_name>Кюрасао</uf_name>
+			<uf_code />
+			<uf_digit_code>531</uf_digit_code>
+			<uf_bx_code>0010000041</uf_bx_code>
+		</item>
+		<item>
+			<id>105</id>
+			<uf_name>Лаос</uf_name>
+			<uf_code>LA</uf_code>
+			<uf_digit_code>418</uf_digit_code>
+			<uf_bx_code>0010000096</uf_bx_code>
+		</item>
+		<item>
+			<id>106</id>
+			<uf_name>Латвия</uf_name>
+			<uf_code>LV</uf_code>
+			<uf_digit_code>428</uf_digit_code>
+			<uf_bx_code>0000028003</uf_bx_code>
+		</item>
+		<item>
+			<id>107</id>
+			<uf_name>Лесото</uf_name>
+			<uf_code>LS</uf_code>
+			<uf_digit_code>426</uf_digit_code>
+			<uf_bx_code>0010000101</uf_bx_code>
+		</item>
+		<item>
+			<id>108</id>
+			<uf_name>Либерия</uf_name>
+			<uf_code>LR</uf_code>
+			<uf_digit_code>430</uf_digit_code>
+			<uf_bx_code>0010000100</uf_bx_code>
+		</item>
+		<item>
+			<id>109</id>
+			<uf_name>Ливан</uf_name>
+			<uf_code>LB</uf_code>
+			<uf_digit_code>422</uf_digit_code>
+			<uf_bx_code>0010000097</uf_bx_code>
+		</item>
+		<item>
+			<id>110</id>
+			<uf_name>Ливийская Арабская Джамахирия</uf_name>
+			<uf_code>LY</uf_code>
+			<uf_digit_code>434</uf_digit_code>
+			<uf_bx_code />
+		</item>
+		<item>
+			<id>111</id>
+			<uf_name>Литва</uf_name>
+			<uf_code>LT</uf_code>
+			<uf_digit_code>440</uf_digit_code>
+			<uf_bx_code>0000028010</uf_bx_code>
+		</item>
+		<item>
+			<id>112</id>
+			<uf_name>Лихтенштейн</uf_name>
+			<uf_code>LI</uf_code>
+			<uf_digit_code>438</uf_digit_code>
+			<uf_bx_code>0000027963</uf_bx_code>
+		</item>
+		<item>
+			<id>113</id>
+			<uf_name>Люксембург</uf_name>
+			<uf_code>LU</uf_code>
+			<uf_digit_code>442</uf_digit_code>
+			<uf_bx_code>0000027964</uf_bx_code>
+		</item>
+		<item>
+			<id>114</id>
+			<uf_name>Маврикий</uf_name>
+			<uf_code>MU</uf_code>
+			<uf_digit_code>480</uf_digit_code>
+			<uf_bx_code>0010000116</uf_bx_code>
+		</item>
+		<item>
+			<id>115</id>
+			<uf_name>Мавритания</uf_name>
+			<uf_code>MR</uf_code>
+			<uf_digit_code>478</uf_digit_code>
+			<uf_bx_code>0010000114</uf_bx_code>
+		</item>
+		<item>
+			<id>116</id>
+			<uf_name>Мадагаскар</uf_name>
+			<uf_code>MG</uf_code>
+			<uf_digit_code>450</uf_digit_code>
+			<uf_bx_code>0010000106</uf_bx_code>
+		</item>
+		<item>
+			<id>117</id>
+			<uf_name>Майотта</uf_name>
+			<uf_code>YT</uf_code>
+			<uf_digit_code>175</uf_digit_code>
+			<uf_bx_code>0010000191</uf_bx_code>
+		</item>
+		<item>
+			<id>118</id>
+			<uf_name>Макао</uf_name>
+			<uf_code>MO</uf_code>
+			<uf_digit_code>446</uf_digit_code>
+			<uf_bx_code />
+		</item>
+		<item>
+			<id>119</id>
+			<uf_name>Малави</uf_name>
+			<uf_code>MW</uf_code>
+			<uf_digit_code>454</uf_digit_code>
+			<uf_bx_code>0010000118</uf_bx_code>
+		</item>
+		<item>
+			<id>120</id>
+			<uf_name>Малайзия</uf_name>
+			<uf_code>MY</uf_code>
+			<uf_digit_code>458</uf_digit_code>
+			<uf_bx_code>0010000119</uf_bx_code>
+		</item>
+		<item>
+			<id>121</id>
+			<uf_name>Мали</uf_name>
+			<uf_code>ML</uf_code>
+			<uf_digit_code>466</uf_digit_code>
+			<uf_bx_code>0010000108</uf_bx_code>
+		</item>
+		<item>
+			<id>122</id>
+			<uf_name>Малые Тихоокеанские отдаленные острова Соединенных Штатов</uf_name>
+			<uf_code>UM</uf_code>
+			<uf_digit_code>581</uf_digit_code>
+			<uf_bx_code />
+		</item>
+		<item>
+			<id>123</id>
+			<uf_name>Мальдивы</uf_name>
+			<uf_code>MV</uf_code>
+			<uf_digit_code>462</uf_digit_code>
+			<uf_bx_code>0010000117</uf_bx_code>
+		</item>
+		<item>
+			<id>124</id>
+			<uf_name>Мальта</uf_name>
+			<uf_code>MT</uf_code>
+			<uf_digit_code>470</uf_digit_code>
+			<uf_bx_code>0000027966</uf_bx_code>
+		</item>
+		<item>
+			<id>125</id>
+			<uf_name>Марокко</uf_name>
+			<uf_code>MA</uf_code>
+			<uf_digit_code>504</uf_digit_code>
+			<uf_bx_code>0010000103</uf_bx_code>
+		</item>
+		<item>
+			<id>126</id>
+			<uf_name>Мартиника</uf_name>
+			<uf_code>MQ</uf_code>
+			<uf_digit_code>474</uf_digit_code>
+			<uf_bx_code>0010000113</uf_bx_code>
+		</item>
+		<item>
+			<id>127</id>
+			<uf_name>Маршалловы острова</uf_name>
+			<uf_code>MH</uf_code>
+			<uf_digit_code>584</uf_digit_code>
+			<uf_bx_code>0010000107</uf_bx_code>
+		</item>
+		<item>
+			<id>128</id>
+			<uf_name>Мексика</uf_name>
+			<uf_code>MX</uf_code>
+			<uf_digit_code>484</uf_digit_code>
+			<uf_bx_code>0000027984</uf_bx_code>
+		</item>
+		<item>
+			<id>129</id>
+			<uf_name>Микронезия, Федеративные Штаты</uf_name>
+			<uf_code>FM</uf_code>
+			<uf_digit_code>583</uf_digit_code>
+			<uf_bx_code />
+		</item>
+		<item>
+			<id>130</id>
+			<uf_name>Мозамбик</uf_name>
+			<uf_code>MZ</uf_code>
+			<uf_digit_code>508</uf_digit_code>
+			<uf_bx_code>0010000120</uf_bx_code>
+		</item>
+		<item>
+			<id>131</id>
+			<uf_name>Молдавия</uf_name>
+			<uf_code>MD</uf_code>
+			<uf_digit_code>498</uf_digit_code>
+			<uf_bx_code>0000028014</uf_bx_code>
+		</item>
+		<item>
+			<id>132</id>
+			<uf_name>Монако</uf_name>
+			<uf_code>MC</uf_code>
+			<uf_digit_code>492</uf_digit_code>
+			<uf_bx_code>0000027967</uf_bx_code>
+		</item>
+		<item>
+			<id>133</id>
+			<uf_name>Монголия</uf_name>
+			<uf_code>MN</uf_code>
+			<uf_digit_code>496</uf_digit_code>
+			<uf_bx_code>0010000110</uf_bx_code>
+		</item>
+		<item>
+			<id>134</id>
+			<uf_name>Монтсеррат</uf_name>
+			<uf_code>MS</uf_code>
+			<uf_digit_code>500</uf_digit_code>
+			<uf_bx_code>0010000115</uf_bx_code>
+		</item>
+		<item>
+			<id>135</id>
+			<uf_name>Мьянма</uf_name>
+			<uf_code>MM</uf_code>
+			<uf_digit_code>104</uf_digit_code>
+			<uf_bx_code>0010000109</uf_bx_code>
+		</item>
+		<item>
+			<id>136</id>
+			<uf_name>Намибия</uf_name>
+			<uf_code>NA</uf_code>
+			<uf_digit_code>516</uf_digit_code>
+			<uf_bx_code>0010000121</uf_bx_code>
+		</item>
+		<item>
+			<id>137</id>
+			<uf_name>Науру</uf_name>
+			<uf_code>NR</uf_code>
+			<uf_digit_code>520</uf_digit_code>
+			<uf_bx_code>0010000128</uf_bx_code>
+		</item>
+		<item>
+			<id>138</id>
+			<uf_name>Непал</uf_name>
+			<uf_code>NP</uf_code>
+			<uf_digit_code>524</uf_digit_code>
+			<uf_bx_code>0010000127</uf_bx_code>
+		</item>
+		<item>
+			<id>139</id>
+			<uf_name>Нигер</uf_name>
+			<uf_code>NE</uf_code>
+			<uf_digit_code>562</uf_digit_code>
+			<uf_bx_code>0010000123</uf_bx_code>
+		</item>
+		<item>
+			<id>140</id>
+			<uf_name>Нигерия</uf_name>
+			<uf_code>NG</uf_code>
+			<uf_digit_code>566</uf_digit_code>
+			<uf_bx_code>0010000125</uf_bx_code>
+		</item>
+		<item>
+			<id>141</id>
+			<uf_name>Нидерландские Антилы</uf_name>
+			<uf_code>AN</uf_code>
+			<uf_digit_code>530</uf_digit_code>
+			<uf_bx_code />
+		</item>
+		<item>
+			<id>142</id>
+			<uf_name>Нидерланды</uf_name>
+			<uf_code>NL</uf_code>
+			<uf_digit_code>528</uf_digit_code>
+			<uf_bx_code>0000027968</uf_bx_code>
+		</item>
+		<item>
+			<id>143</id>
+			<uf_name>Никарагуа</uf_name>
+			<uf_code>NI</uf_code>
+			<uf_digit_code>558</uf_digit_code>
+			<uf_bx_code>0010000126</uf_bx_code>
+		</item>
+		<item>
+			<id>144</id>
+			<uf_name>Ниуэ</uf_name>
+			<uf_code>NU</uf_code>
+			<uf_digit_code>570</uf_digit_code>
+			<uf_bx_code>0010000129</uf_bx_code>
+		</item>
+		<item>
+			<id>145</id>
+			<uf_name>Новая Зеландия</uf_name>
+			<uf_code>NZ</uf_code>
+			<uf_digit_code>554</uf_digit_code>
+			<uf_bx_code>0000027988</uf_bx_code>
+		</item>
+		<item>
+			<id>146</id>
+			<uf_name>Новая Каледония</uf_name>
+			<uf_code>NC</uf_code>
+			<uf_digit_code>540</uf_digit_code>
+			<uf_bx_code>0010000122</uf_bx_code>
+		</item>
+		<item>
+			<id>147</id>
+			<uf_name>Норвегия</uf_name>
+			<uf_code>NO</uf_code>
+			<uf_digit_code>578</uf_digit_code>
+			<uf_bx_code>0000027969</uf_bx_code>
+		</item>
+		<item>
+			<id>148</id>
+			<uf_name>Объединенные Арабские Эмираты</uf_name>
+			<uf_code>AE</uf_code>
+			<uf_digit_code>784</uf_digit_code>
+			<uf_bx_code>0010000001</uf_bx_code>
+		</item>
+		<item>
+			<id>149</id>
+			<uf_name>Оман</uf_name>
+			<uf_code>OM</uf_code>
+			<uf_digit_code>512</uf_digit_code>
+			<uf_bx_code>0010000130</uf_bx_code>
+		</item>
+		<item>
+			<id>150</id>
+			<uf_name>Остров Буве</uf_name>
+			<uf_code>BV</uf_code>
+			<uf_digit_code>74</uf_digit_code>
+			<uf_bx_code />
+		</item>
+		<item>
+			<id>151</id>
+			<uf_name>Остров Мэн</uf_name>
+			<uf_code>IM</uf_code>
+			<uf_digit_code>833</uf_digit_code>
+			<uf_bx_code>0010000078</uf_bx_code>
+		</item>
+		<item>
+			<id>152</id>
+			<uf_name>Остров Норфолк</uf_name>
+			<uf_code>NF</uf_code>
+			<uf_digit_code>574</uf_digit_code>
+			<uf_bx_code />
+		</item>
+		<item>
+			<id>153</id>
+			<uf_name>Остров Рождества</uf_name>
+			<uf_code>CX</uf_code>
+			<uf_digit_code>162</uf_digit_code>
+			<uf_bx_code>0010000042</uf_bx_code>
+		</item>
+		<item>
+			<id>154</id>
+			<uf_name>Остров Херд и острова Макдональд</uf_name>
+			<uf_code>HM</uf_code>
+			<uf_digit_code>334</uf_digit_code>
+			<uf_bx_code>0010000074</uf_bx_code>
+		</item>
+		<item>
+			<id>155</id>
+			<uf_name>Острова Кайман</uf_name>
+			<uf_code>KY</uf_code>
+			<uf_digit_code>136</uf_digit_code>
+			<uf_bx_code />
+		</item>
+		<item>
+			<id>156</id>
+			<uf_name>Острова Кука</uf_name>
+			<uf_code>CK</uf_code>
+			<uf_digit_code>184</uf_digit_code>
+			<uf_bx_code>0010000033</uf_bx_code>
+		</item>
+		<item>
+			<id>157</id>
+			<uf_name>Острова Теркс и Кайкос</uf_name>
+			<uf_code>TC</uf_code>
+			<uf_digit_code>796</uf_digit_code>
+			<uf_bx_code />
+		</item>
+		<item>
+			<id>158</id>
+			<uf_name>Пакистан</uf_name>
+			<uf_code>PK</uf_code>
+			<uf_digit_code>586</uf_digit_code>
+			<uf_bx_code>0010000136</uf_bx_code>
+		</item>
+		<item>
+			<id>159</id>
+			<uf_name>Палау</uf_name>
+			<uf_code>PW</uf_code>
+			<uf_digit_code>585</uf_digit_code>
+			<uf_bx_code>0010000141</uf_bx_code>
+		</item>
+		<item>
+			<id>160</id>
+			<uf_name>Палестинская территория, оккупированная</uf_name>
+			<uf_code>PS</uf_code>
+			<uf_digit_code>275</uf_digit_code>
+			<uf_bx_code />
+		</item>
+		<item>
+			<id>161</id>
+			<uf_name>Панама</uf_name>
+			<uf_code>PA</uf_code>
+			<uf_digit_code>591</uf_digit_code>
+			<uf_bx_code>0010000131</uf_bx_code>
+		</item>
+		<item>
+			<id>162</id>
+			<uf_name>Папский Престол (Государство — город Ватикан)</uf_name>
+			<uf_code>VA</uf_code>
+			<uf_digit_code>336</uf_digit_code>
+			<uf_bx_code />
+		</item>
+		<item>
+			<id>163</id>
+			<uf_name>Папуа</uf_name>
+			<uf_code>Новая Гвинея</uf_code>
+			<uf_digit_code>598</uf_digit_code>
+			<uf_bx_code />
+		</item>
+		<item>
+			<id>164</id>
+			<uf_name>Парагвай</uf_name>
+			<uf_code>PY</uf_code>
+			<uf_digit_code>600</uf_digit_code>
+			<uf_bx_code>0010000142</uf_bx_code>
+		</item>
+		<item>
+			<id>165</id>
+			<uf_name>Перу</uf_name>
+			<uf_code>PE</uf_code>
+			<uf_digit_code>604</uf_digit_code>
+			<uf_bx_code>0010000132</uf_bx_code>
+		</item>
+		<item>
+			<id>166</id>
+			<uf_name>Питкерн</uf_name>
+			<uf_code>PN</uf_code>
+			<uf_digit_code>612</uf_digit_code>
+			<uf_bx_code />
+		</item>
+		<item>
+			<id>167</id>
+			<uf_name>Польша</uf_name>
+			<uf_code>PL</uf_code>
+			<uf_digit_code>616</uf_digit_code>
+			<uf_bx_code>0000027970</uf_bx_code>
+		</item>
+		<item>
+			<id>168</id>
+			<uf_name>Португалия</uf_name>
+			<uf_code>PT</uf_code>
+			<uf_digit_code>620</uf_digit_code>
+			<uf_bx_code>0000027971</uf_bx_code>
+		</item>
+		<item>
+			<id>169</id>
+			<uf_name>Пуэрто</uf_name>
+			<uf_code>Рико</uf_code>
+			<uf_digit_code>630</uf_digit_code>
+			<uf_bx_code />
+		</item>
+		<item>
+			<id>170</id>
+			<uf_name>Республика Македония</uf_name>
+			<uf_code>MK</uf_code>
+			<uf_digit_code>807</uf_digit_code>
+			<uf_bx_code />
+		</item>
+		<item>
+			<id>171</id>
+			<uf_name>Реюньон</uf_name>
+			<uf_code>RE</uf_code>
+			<uf_digit_code>638</uf_digit_code>
+			<uf_bx_code>0010000144</uf_bx_code>
+		</item>
+		<item>
+			<id>172</id>
+			<uf_name>Россия</uf_name>
+			<uf_code>RU</uf_code>
+			<uf_digit_code>643</uf_digit_code>
+			<uf_bx_code>0000028023</uf_bx_code>
+		</item>
+		<item>
+			<id>173</id>
+			<uf_name>Руанда</uf_name>
+			<uf_code>RW</uf_code>
+			<uf_digit_code>646</uf_digit_code>
+			<uf_bx_code>0010000146</uf_bx_code>
+		</item>
+		<item>
+			<id>174</id>
+			<uf_name>Румыния</uf_name>
+			<uf_code>RO</uf_code>
+			<uf_digit_code>642</uf_digit_code>
+			<uf_bx_code>0000027972</uf_bx_code>
+		</item>
+		<item>
+			<id>175</id>
+			<uf_name>Самоа</uf_name>
+			<uf_code>WS</uf_code>
+			<uf_digit_code>882</uf_digit_code>
+			<uf_bx_code />
+		</item>
+		<item>
+			<id>176</id>
+			<uf_name>Сан</uf_name>
+			<uf_code>Марино</uf_code>
+			<uf_digit_code>674</uf_digit_code>
+			<uf_bx_code />
+		</item>
+		<item>
+			<id>177</id>
+			<uf_name>Сан</uf_name>
+			<uf_code>Томе и Принсипи</uf_code>
+			<uf_digit_code>678</uf_digit_code>
+			<uf_bx_code />
+		</item>
+		<item>
+			<id>178</id>
+			<uf_name>Саудовская Аравия</uf_name>
+			<uf_code>SA</uf_code>
+			<uf_digit_code>682</uf_digit_code>
+			<uf_bx_code>0010000147</uf_bx_code>
+		</item>
+		<item>
+			<id>179</id>
+			<uf_name>Свазиленд</uf_name>
+			<uf_code>SZ</uf_code>
+			<uf_digit_code>748</uf_digit_code>
+			<uf_bx_code>0010000164</uf_bx_code>
+		</item>
+		<item>
+			<id>180</id>
+			<uf_name>Святая Елена</uf_name>
+			<uf_code>SH</uf_code>
+			<uf_digit_code>654</uf_digit_code>
+			<uf_bx_code />
+		</item>
+		<item>
+			<id>181</id>
+			<uf_name>Северная Корея</uf_name>
+			<uf_code>KP</uf_code>
+			<uf_digit_code>408</uf_digit_code>
+			<uf_bx_code />
+		</item>
+		<item>
+			<id>182</id>
+			<uf_name>Северные Марианские острова</uf_name>
+			<uf_code>MP</uf_code>
+			<uf_digit_code>580</uf_digit_code>
+			<uf_bx_code />
+		</item>
+		<item>
+			<id>183</id>
+			<uf_name>Сейшелы</uf_name>
+			<uf_code>SC</uf_code>
+			<uf_digit_code>690</uf_digit_code>
+			<uf_bx_code />
+		</item>
+		<item>
+			<id>184</id>
+			<uf_name>Сен</uf_name>
+			<uf_code>Пьер и Микелон</uf_code>
+			<uf_digit_code>666</uf_digit_code>
+			<uf_bx_code />
+		</item>
+		<item>
+			<id>185</id>
+			<uf_name>Сенегал</uf_name>
+			<uf_code>SN</uf_code>
+			<uf_digit_code>686</uf_digit_code>
+			<uf_bx_code>0010000156</uf_bx_code>
+		</item>
+		<item>
+			<id>186</id>
+			<uf_name>Сент</uf_name>
+			<uf_code>Винсент и Гренадины</uf_code>
+			<uf_digit_code>670</uf_digit_code>
+			<uf_bx_code />
+		</item>
+		<item>
+			<id>187</id>
+			<uf_name>Сент</uf_name>
+			<uf_code>Китс и Невис</uf_code>
+			<uf_digit_code>659</uf_digit_code>
+			<uf_bx_code />
+		</item>
+		<item>
+			<id>188</id>
+			<uf_name>Сент</uf_name>
+			<uf_code>Люсия</uf_code>
+			<uf_digit_code>662</uf_digit_code>
+			<uf_bx_code />
+		</item>
+		<item>
+			<id>189</id>
+			<uf_name>Сен</uf_name>
+			<uf_code>мартен (французская часть)</uf_code>
+			<uf_digit_code>663</uf_digit_code>
+			<uf_bx_code />
+		</item>
+		<item>
+			<id>190</id>
+			<uf_name>Сент</uf_name>
+			<uf_code>мартен (нидерландская часть)</uf_code>
+			<uf_digit_code>534</uf_digit_code>
+			<uf_bx_code />
+		</item>
+		<item>
+			<id>191</id>
+			<uf_name>Сербия</uf_name>
+			<uf_code>RS</uf_code>
+			<uf_digit_code>688</uf_digit_code>
+			<uf_bx_code>0010000145</uf_bx_code>
+		</item>
+		<item>
+			<id>192</id>
+			<uf_name>Сингапур</uf_name>
+			<uf_code>SG</uf_code>
+			<uf_digit_code>702</uf_digit_code>
+			<uf_bx_code>0010000151</uf_bx_code>
+		</item>
+		<item>
+			<id>193</id>
+			<uf_name>Сирийская Арабская Республика</uf_name>
+			<uf_code>SY</uf_code>
+			<uf_digit_code>760</uf_digit_code>
+			<uf_bx_code />
+		</item>
+		<item>
+			<id>194</id>
+			<uf_name>Словакия</uf_name>
+			<uf_code>SK</uf_code>
+			<uf_digit_code>703</uf_digit_code>
+			<uf_bx_code>0000027973</uf_bx_code>
+		</item>
+		<item>
+			<id>195</id>
+			<uf_name>Словения</uf_name>
+			<uf_code>SI</uf_code>
+			<uf_digit_code>705</uf_digit_code>
+			<uf_bx_code>0000027974</uf_bx_code>
+		</item>
+		<item>
+			<id>196</id>
+			<uf_name>США</uf_name>
+			<uf_code>US</uf_code>
+			<uf_digit_code>840</uf_digit_code>
+			<uf_bx_code>0000011327</uf_bx_code>
+		</item>
+		<item>
+			<id>197</id>
+			<uf_name>Соломоновы острова</uf_name>
+			<uf_code>SB</uf_code>
+			<uf_digit_code>90</uf_digit_code>
+			<uf_bx_code>0010000148</uf_bx_code>
+		</item>
+		<item>
+			<id>198</id>
+			<uf_name>Сомали</uf_name>
+			<uf_code>SO</uf_code>
+			<uf_digit_code>706</uf_digit_code>
+			<uf_bx_code>0010000157</uf_bx_code>
+		</item>
+		<item>
+			<id>199</id>
+			<uf_name>Судан</uf_name>
+			<uf_code>SD</uf_code>
+			<uf_digit_code>729</uf_digit_code>
+			<uf_bx_code>0010000150</uf_bx_code>
+		</item>
+		<item>
+			<id>200</id>
+			<uf_name>Суринам</uf_name>
+			<uf_code>SR</uf_code>
+			<uf_digit_code>740</uf_digit_code>
+			<uf_bx_code>0010000158</uf_bx_code>
+		</item>
+		<item>
+			<id>201</id>
+			<uf_name>Сьерра</uf_name>
+			<uf_code>Леоне</uf_code>
+			<uf_digit_code>694</uf_digit_code>
+			<uf_bx_code />
+		</item>
+		<item>
+			<id>202</id>
+			<uf_name>Таджикистан</uf_name>
+			<uf_code>TJ</uf_code>
+			<uf_digit_code>762</uf_digit_code>
+			<uf_bx_code>0000028020</uf_bx_code>
+		</item>
+		<item>
+			<id>203</id>
+			<uf_name>Таиланд</uf_name>
+			<uf_code>TH</uf_code>
+			<uf_digit_code>764</uf_digit_code>
+			<uf_bx_code>0010000169</uf_bx_code>
+		</item>
+		<item>
+			<id>204</id>
+			<uf_name>Тайвань (Китай)</uf_name>
+			<uf_code>TW</uf_code>
+			<uf_digit_code>158</uf_digit_code>
+			<uf_bx_code />
+		</item>
+		<item>
+			<id>205</id>
+			<uf_name>Танзания, Объединенная Республика</uf_name>
+			<uf_code>TZ</uf_code>
+			<uf_digit_code>834</uf_digit_code>
+			<uf_bx_code />
+		</item>
+		<item>
+			<id>206</id>
+			<uf_name>Тимор</uf_name>
+			<uf_code>Лесте</uf_code>
+			<uf_digit_code>626</uf_digit_code>
+			<uf_bx_code />
+		</item>
+		<item>
+			<id>207</id>
+			<uf_name>Того</uf_name>
+			<uf_code>TG</uf_code>
+			<uf_digit_code>768</uf_digit_code>
+			<uf_bx_code>0010000168</uf_bx_code>
+		</item>
+		<item>
+			<id>208</id>
+			<uf_name>Токелау</uf_name>
+			<uf_code>TK</uf_code>
+			<uf_digit_code>772</uf_digit_code>
+			<uf_bx_code>0010000170</uf_bx_code>
+		</item>
+		<item>
+			<id>209</id>
+			<uf_name>Тонга</uf_name>
+			<uf_code>TO</uf_code>
+			<uf_digit_code>776</uf_digit_code>
+			<uf_bx_code>0010000173</uf_bx_code>
+		</item>
+		<item>
+			<id>210</id>
+			<uf_name>Тринидад и Тобаго</uf_name>
+			<uf_code>TT</uf_code>
+			<uf_digit_code>780</uf_digit_code>
+			<uf_bx_code>0010000175</uf_bx_code>
+		</item>
+		<item>
+			<id>211</id>
+			<uf_name>Тувалу</uf_name>
+			<uf_code>TV</uf_code>
+			<uf_digit_code>798</uf_digit_code>
+			<uf_bx_code>0010000176</uf_bx_code>
+		</item>
+		<item>
+			<id>212</id>
+			<uf_name>Тунис</uf_name>
+			<uf_code>TN</uf_code>
+			<uf_digit_code>788</uf_digit_code>
+			<uf_bx_code>0010000172</uf_bx_code>
+		</item>
+		<item>
+			<id>213</id>
+			<uf_name>Туркмения</uf_name>
+			<uf_code>TM</uf_code>
+			<uf_digit_code>795</uf_digit_code>
+			<uf_bx_code />
+		</item>
+		<item>
+			<id>214</id>
+			<uf_name>Турция</uf_name>
+			<uf_code>TR</uf_code>
+			<uf_digit_code>792</uf_digit_code>
+			<uf_bx_code>0010000174</uf_bx_code>
+		</item>
+		<item>
+			<id>215</id>
+			<uf_name>Уганда</uf_name>
+			<uf_code>UG</uf_code>
+			<uf_digit_code>800</uf_digit_code>
+			<uf_bx_code>0010000179</uf_bx_code>
+		</item>
+		<item>
+			<id>216</id>
+			<uf_name>Узбекистан</uf_name>
+			<uf_code>UZ</uf_code>
+			<uf_digit_code>860</uf_digit_code>
+			<uf_bx_code>0000028021</uf_bx_code>
+		</item>
+		<item>
+			<id>217</id>
+			<uf_name>Украина</uf_name>
+			<uf_code>UA</uf_code>
+			<uf_digit_code>804</uf_digit_code>
+			<uf_bx_code>0000000364</uf_bx_code>
+		</item>
+		<item>
+			<id>218</id>
+			<uf_name>Уоллис и Футуна</uf_name>
+			<uf_code>WF</uf_code>
+			<uf_digit_code>876</uf_digit_code>
+			<uf_bx_code>0010000188</uf_bx_code>
+		</item>
+		<item>
+			<id>219</id>
+			<uf_name>Уругвай</uf_name>
+			<uf_code>UY</uf_code>
+			<uf_digit_code>858</uf_digit_code>
+			<uf_bx_code>0010000181</uf_bx_code>
+		</item>
+		<item>
+			<id>220</id>
+			<uf_name>Фарерские острова</uf_name>
+			<uf_code>FO</uf_code>
+			<uf_digit_code>234</uf_digit_code>
+			<uf_bx_code>0010000056</uf_bx_code>
+		</item>
+		<item>
+			<id>221</id>
+			<uf_name>Фиджи</uf_name>
+			<uf_code>FJ</uf_code>
+			<uf_digit_code>242</uf_digit_code>
+			<uf_bx_code>0010000053</uf_bx_code>
+		</item>
+		<item>
+			<id>222</id>
+			<uf_name>Филиппины</uf_name>
+			<uf_code>PH</uf_code>
+			<uf_digit_code>608</uf_digit_code>
+			<uf_bx_code>0010000135</uf_bx_code>
+		</item>
+		<item>
+			<id>223</id>
+			<uf_name>Финляндия</uf_name>
+			<uf_code>FI</uf_code>
+			<uf_digit_code>246</uf_digit_code>
+			<uf_bx_code>0000027956</uf_bx_code>
+		</item>
+		<item>
+			<id>224</id>
+			<uf_name>Фолклендские острова (Мальвинские)</uf_name>
+			<uf_code>FK</uf_code>
+			<uf_digit_code>238</uf_digit_code>
+			<uf_bx_code />
+		</item>
+		<item>
+			<id>225</id>
+			<uf_name>Франция</uf_name>
+			<uf_code>FR</uf_code>
+			<uf_digit_code>250</uf_digit_code>
+			<uf_bx_code>0000027957</uf_bx_code>
+		</item>
+		<item>
+			<id>226</id>
+			<uf_name>Франция, метрополия</uf_name>
+			<uf_code />
+			<uf_digit_code>249</uf_digit_code>
+			<uf_bx_code />
+		</item>
+		<item>
+			<id>227</id>
+			<uf_name>Французская Гвиана</uf_name>
+			<uf_code>GF</uf_code>
+			<uf_digit_code>254</uf_digit_code>
+			<uf_bx_code />
+		</item>
+		<item>
+			<id>228</id>
+			<uf_name>Французская Полинезия</uf_name>
+			<uf_code>PF</uf_code>
+			<uf_digit_code>258</uf_digit_code>
+			<uf_bx_code>0010000133</uf_bx_code>
+		</item>
+		<item>
+			<id>229</id>
+			<uf_name>Французские Южные территории</uf_name>
+			<uf_code>TF</uf_code>
+			<uf_digit_code>260</uf_digit_code>
+			<uf_bx_code>0010000167</uf_bx_code>
+		</item>
+		<item>
+			<id>230</id>
+			<uf_name>Хорватия</uf_name>
+			<uf_code>HR</uf_code>
+			<uf_digit_code>191</uf_digit_code>
+			<uf_bx_code>0000027954</uf_bx_code>
+		</item>
+		<item>
+			<id>231</id>
+			<uf_name>Центрально</uf_name>
+			<uf_code>Африканская Республика</uf_code>
+			<uf_digit_code>140</uf_digit_code>
+			<uf_bx_code />
+		</item>
+		<item>
+			<id>232</id>
+			<uf_name>Чад</uf_name>
+			<uf_code>TD</uf_code>
+			<uf_digit_code>148</uf_digit_code>
+			<uf_bx_code>0010000166</uf_bx_code>
+		</item>
+		<item>
+			<id>233</id>
+			<uf_name>Черногория</uf_name>
+			<uf_code>ME</uf_code>
+			<uf_digit_code>499</uf_digit_code>
+			<uf_bx_code>0010000104</uf_bx_code>
+		</item>
+		<item>
+			<id>234</id>
+			<uf_name>Чешская Республика</uf_name>
+			<uf_code>CZ</uf_code>
+			<uf_digit_code>203</uf_digit_code>
+			<uf_bx_code>0000027983</uf_bx_code>
+		</item>
+		<item>
+			<id>235</id>
+			<uf_name>Чили</uf_name>
+			<uf_code>CL</uf_code>
+			<uf_digit_code>152</uf_digit_code>
+			<uf_bx_code>0010000034</uf_bx_code>
+		</item>
+		<item>
+			<id>236</id>
+			<uf_name>Чили, пасхи остров</uf_name>
+			<uf_code />
+			<uf_digit_code>903</uf_digit_code>
+			<uf_bx_code />
+		</item>
+		<item>
+			<id>237</id>
+			<uf_name>Швейцария</uf_name>
+			<uf_code>CH</uf_code>
+			<uf_digit_code>756</uf_digit_code>
+			<uf_bx_code>0000027978</uf_bx_code>
+		</item>
+		<item>
+			<id>238</id>
+			<uf_name>Швеция</uf_name>
+			<uf_code>SE</uf_code>
+			<uf_digit_code>752</uf_digit_code>
+			<uf_bx_code>0000027977</uf_bx_code>
+		</item>
+		<item>
+			<id>239</id>
+			<uf_name>Шпицберген и Ян Майен</uf_name>
+			<uf_code>SJ</uf_code>
+			<uf_digit_code>744</uf_digit_code>
+			<uf_bx_code />
+		</item>
+		<item>
+			<id>240</id>
+			<uf_name>Шри</uf_name>
+			<uf_code>Ланка</uf_code>
+			<uf_digit_code>144</uf_digit_code>
+			<uf_bx_code />
+		</item>
+		<item>
+			<id>241</id>
+			<uf_name>Эквадор</uf_name>
+			<uf_code>EC</uf_code>
+			<uf_digit_code>218</uf_digit_code>
+			<uf_bx_code>0010000048</uf_bx_code>
+		</item>
+		<item>
+			<id>242</id>
+			<uf_name>Экваториальная Гвинея</uf_name>
+			<uf_code>GQ</uf_code>
+			<uf_digit_code>226</uf_digit_code>
+			<uf_bx_code>0010000067</uf_bx_code>
+		</item>
+		<item>
+			<id>243</id>
+			<uf_name>Эландские острова</uf_name>
+			<uf_code>AX</uf_code>
+			<uf_digit_code>248</uf_digit_code>
+			<uf_bx_code />
+		</item>
+		<item>
+			<id>244</id>
+			<uf_name>Эль</uf_name>
+			<uf_code>Сальвадор</uf_code>
+			<uf_digit_code>222</uf_digit_code>
+			<uf_bx_code />
+		</item>
+		<item>
+			<id>245</id>
+			<uf_name>Эритрея</uf_name>
+			<uf_code>ER</uf_code>
+			<uf_digit_code>232</uf_digit_code>
+			<uf_bx_code>0010000051</uf_bx_code>
+		</item>
+		<item>
+			<id>246</id>
+			<uf_name>Эстония</uf_name>
+			<uf_code>EE</uf_code>
+			<uf_digit_code>233</uf_digit_code>
+			<uf_bx_code>0000027996</uf_bx_code>
+		</item>
+		<item>
+			<id>247</id>
+			<uf_name>Эфиопия</uf_name>
+			<uf_code>ET</uf_code>
+			<uf_digit_code>231</uf_digit_code>
+			<uf_bx_code>0010000052</uf_bx_code>
+		</item>
+		<item>
+			<id>248</id>
+			<uf_name>Южная Джорджия и Южные Сандвичевы острова</uf_name>
+			<uf_code>GS</uf_code>
+			<uf_digit_code>239</uf_digit_code>
+			<uf_bx_code />
+		</item>
+		<item>
+			<id>249</id>
+			<uf_name>Южная Корея</uf_name>
+			<uf_code>KR</uf_code>
+			<uf_digit_code>410</uf_digit_code>
+			<uf_bx_code>0010000093</uf_bx_code>
+		</item>
+		<item>
+			<id>250</id>
+			<uf_name>Южная осетия</uf_name>
+			<uf_code />
+			<uf_digit_code>896</uf_digit_code>
+			<uf_bx_code />
+		</item>
+		<item>
+			<id>251</id>
+			<uf_name>Южный судан</uf_name>
+			<uf_code />
+			<uf_digit_code>728</uf_digit_code>
+			<uf_bx_code>0010000159</uf_bx_code>
+		</item>
+		<item>
+			<id>252</id>
+			<uf_name>Южно</uf_name>
+			<uf_code>Африканская Республика</uf_code>
+			<uf_digit_code>710</uf_digit_code>
+			<uf_bx_code />
+		</item>
+		<item>
+			<id>253</id>
+			<uf_name>Ямайка</uf_name>
+			<uf_code>JM</uf_code>
+			<uf_digit_code>388</uf_digit_code>
+			<uf_bx_code>0010000084</uf_bx_code>
+		</item>
+		<item>
+			<id>254</id>
+			<uf_name>Япония</uf_name>
+			<uf_code>JP</uf_code>
+			<uf_digit_code>392</uf_digit_code>
+			<uf_bx_code>0010000086</uf_bx_code>
+		</item>
+	</items>
+</hiblock>

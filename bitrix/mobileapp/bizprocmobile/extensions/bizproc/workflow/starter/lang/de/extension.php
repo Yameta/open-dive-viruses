@@ -1,0 +1,6 @@
+<?php
+$MESS["M_BP_WORKFLOW_STARTER_CONFIRM_BUTTON_CONTINUE"] = "Abbrechen";
+$MESS["M_BP_WORKFLOW_STARTER_CONFIRM_BUTTON_EXIT_WITHOUT_SAVE"] = "Schließen, ohne zu speichern";
+$MESS["M_BP_WORKFLOW_STARTER_CONFIRM_BUTTON_SAVE_AND_EXIT"] = "Speichern und schließen";
+$MESS["M_BP_WORKFLOW_STARTER_CONFIRM_TITLE"] = "Möchten Sie die Änderungen speichern?";
+$MESS["M_BP_WORKFLOW_STARTER_TITLE"] = "Neuer Workflow";

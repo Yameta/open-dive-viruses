@@ -1,0 +1,4 @@
+<?php
+$MESS["M_CRM_TL_PRODUCT_LIST_SUMMARY_TOTAL"] = "Gesamtbetrag der Bestellung: ";
+$MESS["M_CRM_TL_PRODUCT_LIST_SUMMARY_TOTAL_DISCOUNT"] = "Rabatt: ";
+$MESS["M_CRM_TL_PRODUCT_LIST_TITLE"] = "Produkte";

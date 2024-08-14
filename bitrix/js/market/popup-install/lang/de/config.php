@@ -1,0 +1,25 @@
+<?php
+$MESS["MARKET_POPUP_INSTALL_JS_ACCESS"] = "Berechtigungen";
+$MESS["MARKET_POPUP_INSTALL_JS_APPLICATION"] = "Die Anwendung #APP_NAME#<br> wurde in Ihrem Bitrix24 installiert.";
+$MESS["MARKET_POPUP_INSTALL_JS_APP_REQUESTS_PERMISSIONS_TO_WORK"] = "Die Anwendung erfordert folgende Zugriffsrechte:";
+$MESS["MARKET_POPUP_INSTALL_JS_APP_WILL_OPEN_AUTO_AFTER"] = "Die App öffnet sich in <span class=\"market-popup__info-app-launch_counter\">#COUNTER#</span> Sekunden";
+$MESS["MARKET_POPUP_INSTALL_JS_APP_WORKS_AUTOMATICALLY"] = "Diese App hat keine Benutzeroberfläche. Sie können die App im Tab \"Installierte Apps\" deinstallieren.";
+$MESS["MARKET_POPUP_INSTALL_JS_AVAILABLE_IN_SUBSCRIPTION"] = "Erfordert ein Abonnement";
+$MESS["MARKET_POPUP_INSTALL_JS_IMAGE_ESTABLISHED"] = "/bitrix/js/market/images/market-app-established-img_en.jpg";
+$MESS["MARKET_POPUP_INSTALL_JS_IMAGE_ESTABLISHED_INTERFACE"] = "/bitrix/js/market/images/market-app-established-interface-img_en.jpg";
+$MESS["MARKET_POPUP_INSTALL_JS_INSTALLED_APP_LOCATED_APP_TAB"] = "Sie finden Ihre installierten Apps im Tab \"Anwendungen\" im Hauptmenü Ihres Bitrix24.";
+$MESS["MARKET_POPUP_INSTALL_JS_INSTALLING_THE_APP_ON_YOUR_BITRIX"] = "Die App in Ihrem Bitrix24 installieren";
+$MESS["MARKET_POPUP_INSTALL_JS_INSTALL_TITLE"] = "<span class=\"market-popup__header-title_highlight\" title=\"#APP_NAME#\">#APP_NAME#</span> installieren?";
+$MESS["MARKET_POPUP_INSTALL_JS_IN_APP_PURCHASES"] = "In-App-Käufe";
+$MESS["MARKET_POPUP_INSTALL_JS_IS_FREE"] = "Kostenlos";
+$MESS["MARKET_POPUP_INSTALL_JS_MORE"] = "Mehr";
+$MESS["MARKET_POPUP_INSTALL_JS_NEW_VERSION"] = "Neue Version";
+$MESS["MARKET_POPUP_INSTALL_JS_OPEN_APP"] = "Die App öffnen";
+$MESS["MARKET_POPUP_INSTALL_JS_PREVIOUS_VERSION"] = "Vorherige Version";
+$MESS["MARKET_POPUP_INSTALL_JS_READY"] = "Fertig";
+$MESS["MARKET_POPUP_INSTALL_JS_SHOW_ALL_ACCESSES"] = "Alle Berechtigungen anzeigen";
+$MESS["MARKET_POPUP_INSTALL_JS_THERE_ARE_UPDATES"] = "Updates verfügbar";
+$MESS["MARKET_POPUP_INSTALL_JS_UPDATE_TITLE"] = "<span class=\"market-popup__header-title_highlight\" title=\"#APP_NAME#\">#APP_NAME#</span> aktualisieren?";
+$MESS["MARKET_POPUP_INSTALL_JS_VERSION"] = "Version #APP_VERSION#";
+$MESS["MARKET_POPUP_INSTALL_JS_VERSIONS"] = "Versionen";
+$MESS["MARKET_POPUP_INSTALL_JS_YOU_HAVE_A_PREVIOUS_VERSION"] = "Eine neue Version dieser App ist verfügbar. Schauen Sie sich die Updates an.";

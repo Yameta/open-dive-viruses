@@ -1,0 +1,15 @@
+<b>New in version and improvements:</b>
+<ul>
+<li>Implemented the ability to disable canonical installation (SEO-119)</li>
+<li>Added display of information about module updates (SEO-93)</li>
+<li>Improved the work of the module with the English language in the admin panel (SEO-108)</li>
+</ul>
+<b>Corrections:</b>
+<ul>
+<li>Hide tags with grouping worked incorrectly (SEO-124)</li>
+<li>Section did not display Activity in Smart SEO (SEO-121)</li>
+<li>The landing page was available at two URLs due to underscores (SEO-68, SEO-70)</li>
+<li>The condition was not created if the offer properties and product properties were selected in PHP 8 (SEO-112)</li>
+<li>The condition was not created if the offer properties and the "Price" properties were selected (SEO-113)</li>
+<li>Indexing control on property with numeric type did not work (SEO-122)</li>
+</ul>

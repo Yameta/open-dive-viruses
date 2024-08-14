@@ -1,0 +1,1 @@
+DROP TABLE if exists ptb_canonical_list;

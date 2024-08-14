@@ -1,0 +1,1 @@
+Согласен с <a href="#SITE_DIR#include/offer_detail.php" target="_blank">публичной офертой</a>

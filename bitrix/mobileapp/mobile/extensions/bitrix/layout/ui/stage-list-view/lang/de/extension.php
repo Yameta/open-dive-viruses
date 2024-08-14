@@ -1,0 +1,4 @@
+<?php
+$MESS["STAGE_LIST_VIEW_BACKDROP_DEFAULT_TITLE"] = "Phase auswählen";
+$MESS["STAGE_LIST_VIEW_BACKDROP_TUNNEL_TITLE"] = "Wählen Sie eine Phase für Tunnel aus";
+$MESS["STAGE_LIST_VIEW_FUNNEL_NOT_LOADED_TITLE2"] = "Pipeline";

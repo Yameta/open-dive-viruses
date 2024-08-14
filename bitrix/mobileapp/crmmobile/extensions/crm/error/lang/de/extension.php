@@ -1,0 +1,20 @@
+<?php
+$MESS["MCRM_ERROR_ACCESS_DENIED_TEXT"] = "Wenden Sie sich an Ihren Bitrix24 Administrator oder an eine Person, die für das CRM zuständig ist";
+$MESS["MCRM_ERROR_ACCESS_DENIED_TITLE"] = "Sie haben nicht genügend Rechte, um das Element anzuzeigen";
+$MESS["MCRM_ERROR_ACCESS_DENIED_TITLE_COMPANY"] = "Sie haben nicht genügend Rechte, um das Unternehmen anzuzeigen";
+$MESS["MCRM_ERROR_ACCESS_DENIED_TITLE_CONTACT"] = "Sie haben nicht genügend Rechte, um den Kontakt anzuzeigen";
+$MESS["MCRM_ERROR_ACCESS_DENIED_TITLE_DEAL"] = "Sie haben nicht genügend Rechte, um den Auftrag anzuzeigen";
+$MESS["MCRM_ERROR_ACCESS_DENIED_TITLE_LEAD"] = "Sie haben nicht genügend Rechte, um den Lead anzuzeigen";
+$MESS["MCRM_ERROR_ACCESS_DENIED_TITLE_QUOTE_MSGVER_1"] = "Sie haben nicht genügend Rechte, um Angebot anzuzeigen";
+$MESS["MCRM_ERROR_ACCESS_DENIED_TITLE_SMART_INVOICE"] = "Sie haben nicht genügend Rechte, um die Rechnung anzuzeigen";
+$MESS["MCRM_ERROR_ALERT_CONFIRM"] = "OK";
+$MESS["MCRM_ERROR_INTERNAL_ERROR_TEXT"] = "Versuchen Sie es bitte später erneut. \nWenn das Problem weiterhin besteht, wenden Sie sich bitte an Ihren Bitrix24 Administrator oder an eine Person, die für das CRM zuständig ist.";
+$MESS["MCRM_ERROR_INTERNAL_ERROR_TITLE"] = "Ein interner Fehler ist aufgetreten";
+$MESS["MCRM_ERROR_NOT_FOUND_TITLE"] = "Element wurde nicht gefunden";
+$MESS["MCRM_ERROR_NOT_FOUND_TITLE_COMPANY"] = "Unternehmen wurde nicht gefunden";
+$MESS["MCRM_ERROR_NOT_FOUND_TITLE_CONTACT"] = "Kontakt wurde nicht gefunden";
+$MESS["MCRM_ERROR_NOT_FOUND_TITLE_DEAL"] = "Auftrag wurde nicht gefunden";
+$MESS["MCRM_ERROR_NOT_FOUND_TITLE_LEAD"] = "Lead wurde nicht gefunden";
+$MESS["MCRM_ERROR_NOT_FOUND_TITLE_QUOTE_MSGVER_1"] = "Angebot wurde nicht gefunden";
+$MESS["MCRM_ERROR_NOT_FOUND_TITLE_SMART_INVOICE"] = "Rechnung wurde nicht gefunden";
+$MESS["MCRM_ERROR_PUBLIC_ERROR_TITLE"] = "Fehler";
