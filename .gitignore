@@ -1,6 +1,25 @@
+
+# Игнорируем все файлы и папки по умолчанию
+*
+
+# Исключаем из игнорирования директорию /bitrix и её содержимое
+!/bitrix/
+!/bitrix/**
+
+# Игнорируем конкретные папки в /bitrix
 /bitrix/cache/
 /bitrix/managed_cache/
 /bitrix/html_pages/
 /bitrix/stack_cache/
 /bitrix/backup/
+
+# Игнорируем папки в /upload
 /upload/backup/
+
+*.zip
+*.rar
+*.tar
+# Но не игнорировать .gitattributes
+!.gitattributes
+
+
